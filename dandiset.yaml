@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.7.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -13,8 +14,8 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 22992586341
-  numberOfFiles: 24783
+  numberOfBytes: 23069194743
+  numberOfFiles: 24858
   numberOfSamples: 1
   numberOfSubjects: 62
   schemaKey: AssetsSummary
@@ -31,11 +32,29 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- email: aweible@uoregon.edu
+  name: Weible, Aldis P
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- awardNumber: R01 DC015828
+  identifier: https://ror.org/04mhx6838
+  name: National Institute on Deafness and Other Communication Disorders
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: R01 AG077681
+  identifier: https://ror.org/049v75w11
+  name: National Institute on Aging
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2026-10-19T19:34:10.479437+00:00'
 description: "Histology data supporting the paper \"Weible, A.P., Wehr, M. (2022)
   Amyloid Pathology in the Central Auditory Pathway of 5XFAD Mice Appears First in
   Auditory Cortex. Journal of Alzheimer’s Disease 89(4):1385-1402. PMCID: PMC10097438.\"\
   \nBrain sections of 5XFAD positive mice, labeled for Aβ42-antibody and DAPI."
+ethicsApproval: []
 id: DANDI:002035/draft
 identifier: DANDI:002035
 license:
@@ -44,8 +63,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/002035/versions/draft/assets/
 name: Amyloid Pathology in the Central Auditory Pathway of 5XFAD Mice Appears First
   in Auditory Cortex
+relatedResource:
+- identifier: 10.3233/JAD-220538
+  name: Amyloid Pathology in the Central Auditory Pathway of 5XFAD Mice Appears First
+    in Auditory Cortex
+  relation: dcite:IsPublishedIn
+  repository: Journal of Alzheimer’s Disease 89 (2022) 1385–1402
+  resourceType: dcite:JournalArticle
+  schemaKey: Resource
+  url: https://doi.org/10.3233/JAD-220538
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
 url: https://dandiarchive.org/dandiset/002035/draft
 version: draft
+wasGeneratedBy: []
