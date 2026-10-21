@@ -1,0 +1,68 @@
+filename	acq_time	stain	magnification	magnification_confidence	source_format	region	region_abbr	original_subfolder	original_file
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-20891_FLUO.ome.tif	2021-11-26T18:28:28	Abeta42	100X	high	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20891.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9972_FLUO.ome.tif	2021-01-25T20:54:44	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9972.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9973_FLUO.ome.tif	2021-01-25T20:55:01	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9973.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9976_FLUO.ome.tif	2021-01-25T20:55:48	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9976.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9977_FLUO.ome.tif	2021-01-25T20:55:58	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9977.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9978_FLUO.ome.tif	2021-01-25T20:56:11	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9978.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9979_FLUO.ome.tif	2021-01-25T20:56:21	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9979.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9984_FLUO.ome.tif	2021-01-25T20:59:30	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9984.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9985_FLUO.ome.tif	2021-01-25T20:59:48	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9985.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9987_FLUO.ome.tif	2021-01-25T21:00:09	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9987.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9989_FLUO.ome.tif	2021-01-25T21:00:33	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9989.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-Abeta42_run-9995_FLUO.ome.tif	2021-01-25T21:04:14	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9995.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-20883_FLUO.ome.tif	2021-11-26T18:26:31	DAPI	100X	high	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20883.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-20892_FLUO.ome.tif	2021-11-26T18:28:38	DAPI	100X	high	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20892.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-20893_FLUO.ome.tif	2021-11-26T18:29:01	DAPI	100X	high	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20893.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-9971_FLUO.ome.tif	2021-01-25T20:54:13	DAPI	100X	low	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9971.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-9974_FLUO.ome.tif	2021-01-25T20:55:13	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9974.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-9975_FLUO.ome.tif	2021-01-25T20:55:31	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9975.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-9980_FLUO.ome.tif	2021-01-25T20:56:36	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9980.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-9983_FLUO.ome.tif	2021-01-25T20:59:09	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9983.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-9986_FLUO.ome.tif	2021-01-25T20:59:56	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9986.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-9988_FLUO.ome.tif	2021-01-25T21:00:17	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9988.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-9990_FLUO.ome.tif	2021-01-25T21:00:41	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9990.czi
+micr/sub-LTN_sample-brain_acq-100x_stain-DAPI_run-9996_FLUO.ome.tif	2021-01-25T21:04:28	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9996.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-Abeta42_run-20881_FLUO.ome.tif	2021-11-26T18:25:59	Abeta42	12.5X	high	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20881.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-Abeta42_run-9954_FLUO.ome.tif	2021-01-25T20:49:30	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9954.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-Abeta42_run-9955_FLUO.ome.tif	2021-01-25T20:49:50	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9955.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-Abeta42_run-9992_FLUO.ome.tif	2021-01-25T21:03:03	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9992.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-Abeta42_run-9993_FLUO.ome.tif	2021-01-25T21:03:30	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9993.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-DAPI_run-20882_FLUO.ome.tif	2021-11-26T18:26:08	DAPI	12.5X	high	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20882.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-DAPI_run-9952_FLUO.ome.tif	2021-01-25T20:49:01	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9952.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-DAPI_run-9956_FLUO.ome.tif	2021-01-25T20:50:13	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9956.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-DAPI_run-9958_FLUO.ome.tif	2021-01-25T20:51:24	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9958.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-DAPI_run-9991_FLUO.ome.tif	2021-01-25T21:02:55	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9991.czi
+micr/sub-LTN_sample-brain_acq-12p5x_stain-DAPI_run-9994_FLUO.ome.tif	2021-01-25T21:03:44	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9994.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20884_FLUO.ome.tif	2021-11-26T18:26:39	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20884.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20885_FLUO.ome.tif	2021-11-26T18:26:55	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20885.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20886_FLUO.ome.tif	2021-11-26T18:27:04	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20886.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20887_FLUO.ome.tif	2021-11-26T18:27:17	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20887.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20888_FLUO.ome.tif	2021-11-26T18:27:24	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20888.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20889_FLUO.ome.tif	2021-11-26T18:27:28	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20889.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20890_FLUO.ome.tif	2021-11-26T18:27:36	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20890.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20894_FLUO.ome.tif	2021-11-26T18:29:15	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20894.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20895_FLUO.ome.tif	2021-11-26T18:29:18	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20895.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20896_FLUO.ome.tif	2021-11-26T18:29:21	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20896.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20897_FLUO.ome.tif	2021-11-26T18:29:28	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20897.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20898_FLUO.ome.tif	2021-11-26T18:29:39	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20898.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20899_FLUO.ome.tif	2021-11-26T18:29:45	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20899.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20900_FLUO.ome.tif	2021-11-26T18:29:54	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20900.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20901_FLUO.ome.tif	2021-11-26T18:30:09	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20901.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20902_FLUO.ome.tif	2021-11-26T18:30:13	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20902.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-20903_FLUO.ome.tif	2021-11-26T18:30:24	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	LTN PRNc	Female P14 Positive LTN/LTN PRNc/Snap-20903.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9957_FLUO.ome.tif	2021-01-25T20:51:12	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9957.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9960_FLUO.ome.tif	2021-01-25T20:52:01	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9960.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9961_FLUO.ome.tif	2021-01-25T20:52:06	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9961.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9962_FLUO.ome.tif	2021-01-25T20:52:13	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9962.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9963_FLUO.ome.tif	2021-01-25T20:52:30	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9963.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9964_FLUO.ome.tif	2021-01-25T20:52:36	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9964.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9965_FLUO.ome.tif	2021-01-25T20:52:43	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9965.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9968_FLUO.ome.tif	2021-01-25T20:53:10	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9968.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9969_FLUO.ome.tif	2021-01-25T20:53:15	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9969.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9970_FLUO.ome.tif	2021-01-25T20:53:21	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9970.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-Abeta42_run-9981_FLUO.ome.tif	2021-01-25T20:57:58	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9981.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-DAPI_run-9959_FLUO.ome.tif	2021-01-25T20:51:45	DAPI	200X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9959.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-DAPI_run-9966_FLUO.ome.tif	2021-01-25T20:52:49	DAPI	200X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9966.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-DAPI_run-9967_FLUO.ome.tif	2021-01-25T20:53:02	DAPI	200X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9967.czi
+micr/sub-LTN_sample-brain_acq-200x_stain-DAPI_run-9982_FLUO.ome.tif	2021-01-25T20:58:10	DAPI	200X	high	czi	n/a	n/a	n/a	Female P14 Positive LTN/Snap-9982.czi

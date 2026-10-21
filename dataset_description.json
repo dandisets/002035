@@ -1,0 +1,33 @@
+{
+  "Name": "Amyloid pathology in the central auditory pathway of 5XFAD mice: raw histology images",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Aldis P. Weible",
+    "Michael Wehr"
+  ],
+  "Funding": [
+    "NIDCD R01 DC015828",
+    "NIA R01 AG077681"
+  ],
+  "EthicsApprovals": [
+    "University of Oregon Institutional Animal Care and Use Committee"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.3233/JAD-220538",
+    "PMCID: PMC10097438"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "convert_to_bids.py",
+      "Description": "CZI/JPG to OME-TIFF conversion with content-based magnification inference"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "Description": "Original Zeiss ZEN 3.1 .czi files, .jpg exports and .jpg_metadata.xml files"
+    }
+  ],
+  "HowToAcknowledge": "Please cite Weible AP, Wehr M (2022) J Alzheimers Dis 89(4):1385-1402."
+}

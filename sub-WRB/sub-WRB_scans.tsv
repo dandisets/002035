@@ -1,0 +1,152 @@
+filename	acq_time	stain	magnification	magnification_confidence	source_format	region	region_abbr	original_subfolder	original_file
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13454_FLUO.ome.tif	2021-04-19T22:52:51	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13454.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13457_FLUO.ome.tif	2021-04-19T22:53:20	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13457.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13458_FLUO.ome.tif	2021-04-19T22:53:35	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13458.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13461_FLUO.ome.tif	2021-04-19T22:54:09	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13461.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13462_FLUO.ome.tif	2021-04-19T22:54:21	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13462.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13465_FLUO.ome.tif	2021-04-19T22:54:44	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13465.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13506_FLUO.ome.tif	2021-04-19T23:01:29	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13506.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13509_FLUO.ome.tif	2021-04-19T23:01:52	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13509.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13510_FLUO.ome.tif	2021-04-19T23:02:05	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13510.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13513_FLUO.ome.tif	2021-04-19T23:02:28	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13513.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13514_FLUO.ome.tif	2021-04-19T23:02:53	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13514.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13518_FLUO.ome.tif	2021-04-19T23:03:23	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13518.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13523_FLUO.ome.tif	2021-04-19T23:05:53	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13523.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13525_FLUO.ome.tif	2021-04-19T23:06:21	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13525.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13529_FLUO.ome.tif	2021-04-19T23:06:58	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13529.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13532_FLUO.ome.tif	2021-04-19T23:08:22	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13532.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13541_FLUO.ome.tif	2021-04-19T23:11:22	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13541.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-13544_FLUO.ome.tif	2021-04-19T23:11:49	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13544.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-Abeta42_run-21065_FLUO.ome.tif	2021-11-26T20:31:04	Abeta42	100X	high	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21065.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13435_FLUO.ome.tif	2021-04-19T22:50:37	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13435.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13455_FLUO.ome.tif	2021-04-19T22:52:58	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13455.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13456_FLUO.ome.tif	2021-04-19T22:53:16	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13456.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13459_FLUO.ome.tif	2021-04-19T22:53:47	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13459.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13460_FLUO.ome.tif	2021-04-19T22:54:03	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13460.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13463_FLUO.ome.tif	2021-04-19T22:54:33	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13463.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13464_FLUO.ome.tif	2021-04-19T22:54:40	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13464.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13500_FLUO.ome.tif	2021-04-19T22:58:55	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13500.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13507_FLUO.ome.tif	2021-04-19T23:01:36	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13507.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13508_FLUO.ome.tif	2021-04-19T23:01:48	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13508.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13511_FLUO.ome.tif	2021-04-19T23:02:13	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13511.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13512_FLUO.ome.tif	2021-04-19T23:02:23	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13512.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13515_FLUO.ome.tif	2021-04-19T23:03:04	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13515.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13517_FLUO.ome.tif	2021-04-19T23:03:19	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13517.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13524_FLUO.ome.tif	2021-04-19T23:06:08	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13524.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13526_FLUO.ome.tif	2021-04-19T23:06:33	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13526.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13530_FLUO.ome.tif	2021-04-19T23:07:07	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13530.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13531_FLUO.ome.tif	2021-04-19T23:08:09	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13531.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13542_FLUO.ome.tif	2021-04-19T23:11:32	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13542.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13543_FLUO.ome.tif	2021-04-19T23:11:43	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13543.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-13546_FLUO.ome.tif	2021-04-19T23:12:22	DAPI	100X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13546.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-21066_FLUO.ome.tif	2021-11-26T20:31:14	DAPI	100X	high	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21066.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-21073_FLUO.ome.tif	2021-11-26T20:32:04	DAPI	100X	high	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21073.czi
+micr/sub-WRB_sample-brain_acq-100x_stain-DAPI_run-21078_FLUO.ome.tif	2021-11-26T20:32:34	DAPI	100X	high	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21078.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13432_FLUO.ome.tif	2021-04-19T22:49:37	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13432.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13433_FLUO.ome.tif	2021-04-19T22:49:54	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13433.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13503_FLUO.ome.tif	2021-04-19T23:00:16	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13503.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13504_FLUO.ome.tif	2021-04-19T23:00:28	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13504.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13520_FLUO.ome.tif	2021-04-19T23:04:12	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13520.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13521_FLUO.ome.tif	2021-04-19T23:04:27	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13521.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13528_FLUO.ome.tif	2021-04-19T23:06:49	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13528.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13533_FLUO.ome.tif	2021-04-19T23:09:00	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13533.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13535_FLUO.ome.tif	2021-04-19T23:09:20	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13535.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13548_FLUO.ome.tif	2021-04-19T23:13:17	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13548.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-Abeta42_run-13549_FLUO.ome.tif	2021-04-19T23:13:39	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13549.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13431_FLUO.ome.tif	2021-04-19T22:49:30	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13431.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13434_FLUO.ome.tif	2021-04-19T22:50:09	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13434.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13502_FLUO.ome.tif	2021-04-19T23:00:10	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13502.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13505_FLUO.ome.tif	2021-04-19T23:00:40	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13505.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13519_FLUO.ome.tif	2021-04-19T23:04:06	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13519.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13522_FLUO.ome.tif	2021-04-19T23:04:46	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13522.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13527_FLUO.ome.tif	2021-04-19T23:06:44	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13527.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13534_FLUO.ome.tif	2021-04-19T23:09:08	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13534.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13539_FLUO.ome.tif	2021-04-19T23:10:49	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13539.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13547_FLUO.ome.tif	2021-04-19T23:13:13	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13547.czi
+micr/sub-WRB_sample-brain_acq-12p5x_stain-DAPI_run-13550_FLUO.ome.tif	2021-04-19T23:13:52	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13550.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13436_FLUO.ome.tif	2021-04-19T22:50:41	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13436.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13437_FLUO.ome.tif	2021-04-19T22:51:01	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13437.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13438_FLUO.ome.tif	2021-04-19T22:51:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13438.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13439_FLUO.ome.tif	2021-04-19T22:51:09	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13439.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13440_FLUO.ome.tif	2021-04-19T22:51:12	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13440.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13441_FLUO.ome.tif	2021-04-19T22:51:18	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13441.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13442_FLUO.ome.tif	2021-04-19T22:51:39	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13442.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13443_FLUO.ome.tif	2021-04-19T22:51:42	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13443.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13444_FLUO.ome.tif	2021-04-19T22:51:46	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13444.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13445_FLUO.ome.tif	2021-04-19T22:51:49	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13445.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13446_FLUO.ome.tif	2021-04-19T22:51:52	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13446.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13447_FLUO.ome.tif	2021-04-19T22:51:59	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13447.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13448_FLUO.ome.tif	2021-04-19T22:52:16	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13448.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13449_FLUO.ome.tif	2021-04-19T22:52:19	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13449.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13450_FLUO.ome.tif	2021-04-19T22:52:22	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13450.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13451_FLUO.ome.tif	2021-04-19T22:52:25	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13451.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13452_FLUO.ome.tif	2021-04-19T22:52:28	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13452.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13453_FLUO.ome.tif	2021-04-19T22:52:33	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13453.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13466_FLUO.ome.tif	2021-04-19T22:55:00	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13466.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13467_FLUO.ome.tif	2021-04-19T22:55:04	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13467.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13468_FLUO.ome.tif	2021-04-19T22:55:08	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13468.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13469_FLUO.ome.tif	2021-04-19T22:55:11	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13469.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13470_FLUO.ome.tif	2021-04-19T22:55:16	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13470.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13471_FLUO.ome.tif	2021-04-19T22:55:31	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13471.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13472_FLUO.ome.tif	2021-04-19T22:55:34	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13472.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13473_FLUO.ome.tif	2021-04-19T22:55:37	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13473.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13474_FLUO.ome.tif	2021-04-19T22:55:40	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13474.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13475_FLUO.ome.tif	2021-04-19T22:55:45	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13475.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13476_FLUO.ome.tif	2021-04-19T22:56:02	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13476.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13477_FLUO.ome.tif	2021-04-19T22:56:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13477.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13478_FLUO.ome.tif	2021-04-19T22:56:08	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13478.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13479_FLUO.ome.tif	2021-04-19T22:56:12	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13479.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13480_FLUO.ome.tif	2021-04-19T22:56:18	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13480.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13481_FLUO.ome.tif	2021-04-19T22:56:35	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13481.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13482_FLUO.ome.tif	2021-04-19T22:56:38	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13482.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13483_FLUO.ome.tif	2021-04-19T22:56:42	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13483.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13484_FLUO.ome.tif	2021-04-19T22:56:45	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13484.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13485_FLUO.ome.tif	2021-04-19T22:56:48	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13485.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13486_FLUO.ome.tif	2021-04-19T22:56:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13486.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13487_FLUO.ome.tif	2021-04-19T22:57:09	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13487.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13488_FLUO.ome.tif	2021-04-19T22:57:13	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13488.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13489_FLUO.ome.tif	2021-04-19T22:57:16	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13489.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13490_FLUO.ome.tif	2021-04-19T22:57:19	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13490.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13491_FLUO.ome.tif	2021-04-19T22:57:22	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13491.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13492_FLUO.ome.tif	2021-04-19T22:57:25	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13492.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13493_FLUO.ome.tif	2021-04-19T22:57:30	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13493.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13494_FLUO.ome.tif	2021-04-19T22:57:45	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13494.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13495_FLUO.ome.tif	2021-04-19T22:57:48	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13495.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13496_FLUO.ome.tif	2021-04-19T22:57:51	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13496.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13497_FLUO.ome.tif	2021-04-19T22:57:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13497.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13498_FLUO.ome.tif	2021-04-19T22:57:57	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13498.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13499_FLUO.ome.tif	2021-04-19T22:58:02	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13499.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13501_FLUO.ome.tif	2021-04-19T22:59:01	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13501.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13537_FLUO.ome.tif	2021-04-19T23:09:43	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13537.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13540_FLUO.ome.tif	2021-04-19T23:10:55	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13540.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-13545_FLUO.ome.tif	2021-04-19T23:12:10	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13545.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21064_FLUO.ome.tif	2021-11-26T20:30:46	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21064.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21067_FLUO.ome.tif	2021-11-26T20:31:39	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21067.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21068_FLUO.ome.tif	2021-11-26T20:31:42	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21068.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21069_FLUO.ome.tif	2021-11-26T20:31:45	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21069.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21070_FLUO.ome.tif	2021-11-26T20:31:48	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21070.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21071_FLUO.ome.tif	2021-11-26T20:31:51	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21071.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21072_FLUO.ome.tif	2021-11-26T20:31:54	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21072.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21074_FLUO.ome.tif	2021-11-26T20:32:17	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21074.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21075_FLUO.ome.tif	2021-11-26T20:32:20	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21075.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21076_FLUO.ome.tif	2021-11-26T20:32:23	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21076.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21077_FLUO.ome.tif	2021-11-26T20:32:28	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21077.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21079_FLUO.ome.tif	2021-11-26T20:32:48	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21079.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21080_FLUO.ome.tif	2021-11-26T20:32:52	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21080.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21081_FLUO.ome.tif	2021-11-26T20:32:55	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21081.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21082_FLUO.ome.tif	2021-11-26T20:32:58	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21082.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21083_FLUO.ome.tif	2021-11-26T20:33:13	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21083.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21084_FLUO.ome.tif	2021-11-26T20:33:24	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21084.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21085_FLUO.ome.tif	2021-11-26T20:33:27	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21085.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21086_FLUO.ome.tif	2021-11-26T20:33:30	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21086.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21087_FLUO.ome.tif	2021-11-26T20:33:33	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21087.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21088_FLUO.ome.tif	2021-11-26T20:33:40	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21088.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21089_FLUO.ome.tif	2021-11-26T20:33:54	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21089.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21090_FLUO.ome.tif	2021-11-26T20:33:57	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21090.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21091_FLUO.ome.tif	2021-11-26T20:34:00	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21091.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21092_FLUO.ome.tif	2021-11-26T20:34:03	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21092.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21093_FLUO.ome.tif	2021-11-26T20:34:06	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21093.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-Abeta42_run-21094_FLUO.ome.tif	2021-11-26T20:34:14	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	WRB PRNc	Male P30 Positive WRB/WRB PRNc/Snap-21094.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-DAPI_run-13516_FLUO.ome.tif	2021-04-19T23:03:09	DAPI	200X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13516.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-DAPI_run-13536_FLUO.ome.tif	2021-04-19T23:09:27	DAPI	200X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13536.czi
+micr/sub-WRB_sample-brain_acq-200x_stain-DAPI_run-13538_FLUO.ome.tif	2021-04-19T23:09:52	DAPI	200X	high	czi	n/a	n/a	n/a	Male P30 Positive WRB/Snap-13538.czi

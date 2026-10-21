@@ -1,0 +1,165 @@
+filename	acq_time	stain	magnification	magnification_confidence	source_format	region	region_abbr	original_subfolder	original_file
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-4466_FLUO.ome.tif	2020-10-20T20:57:53	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4466.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-4506_FLUO.ome.tif	2020-10-20T21:18:15	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4506.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5658_FLUO.ome.tif	2020-11-06T20:48:14	Abeta42	100X	low	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5658.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5662_FLUO.ome.tif	2020-11-06T20:52:45	Abeta42	100X	low	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5662.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5663_FLUO.ome.tif	2020-11-06T20:52:55	Abeta42	100X	low	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5663.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5666_FLUO.ome.tif	2020-11-06T20:53:23	Abeta42	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5666.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5667_FLUO.ome.tif	2020-11-06T20:53:34	Abeta42	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5667.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5670_FLUO.ome.tif	2020-11-06T20:53:57	Abeta42	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5670.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5672_FLUO.ome.tif	2020-11-06T20:55:07	Abeta42	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5672.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5673_FLUO.ome.tif	2020-11-06T20:55:16	Abeta42	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5673.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5676_FLUO.ome.tif	2020-11-06T20:55:42	Abeta42	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5676.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5677_FLUO.ome.tif	2020-11-06T20:55:52	Abeta42	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5677.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5680_FLUO.ome.tif	2020-11-06T20:56:11	Abeta42	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5680.czi
+micr/sub-0219_sample-brain_acq-100x_stain-Abeta42_run-5681_FLUO.ome.tif	2020-11-06T20:56:18	Abeta42	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5681.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-16053_FLUO.ome.tif	2021-06-08T18:48:51	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up 2	Female P45 Positive 0219/0219 Follow-up 2/Snap-16053.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-16054_FLUO.ome.tif	2021-06-08T18:49:04	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up 2	Female P45 Positive 0219/0219 Follow-up 2/Snap-16054.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-16055_FLUO.ome.tif	2021-06-08T18:49:11	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up 2	Female P45 Positive 0219/0219 Follow-up 2/Snap-16055.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-16056_FLUO.ome.tif	2021-06-08T18:49:23	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up 2	Female P45 Positive 0219/0219 Follow-up 2/Snap-16056.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-16057_FLUO.ome.tif	2021-06-08T18:49:33	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up 2	Female P45 Positive 0219/0219 Follow-up 2/Snap-16057.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-16058_FLUO.ome.tif	2021-06-08T18:49:46	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up 2	Female P45 Positive 0219/0219 Follow-up 2/Snap-16058.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-4465_FLUO.ome.tif	2020-10-20T20:57:48	DAPI	100X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4465.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-4505_FLUO.ome.tif	2020-10-20T21:18:03	DAPI	100X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4505.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5611_FLUO.ome.tif	2020-11-06T20:28:23	DAPI	100X	low	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5611.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5613_FLUO.ome.tif	2020-11-06T20:29:24	DAPI	100X	low	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5613.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5616_FLUO.ome.tif	2020-11-06T20:29:53	DAPI	100X	low	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5616.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5621_FLUO.ome.tif	2020-11-06T20:31:21	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5621.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5657_FLUO.ome.tif	2020-11-06T20:48:07	DAPI	100X	low	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5657.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5661_FLUO.ome.tif	2020-11-06T20:52:40	DAPI	100X	low	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5661.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5664_FLUO.ome.tif	2020-11-06T20:53:05	DAPI	100X	low	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5664.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5665_FLUO.ome.tif	2020-11-06T20:53:16	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5665.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5668_FLUO.ome.tif	2020-11-06T20:53:45	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5668.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5669_FLUO.ome.tif	2020-11-06T20:53:53	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5669.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5671_FLUO.ome.tif	2020-11-06T20:55:01	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5671.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5674_FLUO.ome.tif	2020-11-06T20:55:25	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5674.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5675_FLUO.ome.tif	2020-11-06T20:55:38	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5675.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5678_FLUO.ome.tif	2020-11-06T20:56:00	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5678.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5679_FLUO.ome.tif	2020-11-06T20:56:07	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5679.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-5682_FLUO.ome.tif	2020-11-06T20:56:30	DAPI	100X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5682.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-8239_FLUO.ome.tif	2020-12-15T16:50:12	DAPI	100X	high	czi	auditory cortex	ACtx	0219 ctx images	Female P45 Positive 0219/0219 ctx images/Snap-8239.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-8240_FLUO.ome.tif	2020-12-15T16:50:30	DAPI	100X	high	czi	auditory cortex	ACtx	0219 ctx images	Female P45 Positive 0219/0219 ctx images/Snap-8240.czi
+micr/sub-0219_sample-brain_acq-100x_stain-DAPI_run-8241_FLUO.ome.tif	2020-12-15T16:50:47	DAPI	100X	high	czi	auditory cortex	ACtx	0219 ctx images	Female P45 Positive 0219/0219 ctx images/Snap-8241.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5624_FLUO.ome.tif	2020-11-06T20:35:00	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5624.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5625_FLUO.ome.tif	2020-11-06T20:35:19	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5625.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5628_FLUO.ome.tif	2020-11-06T20:35:57	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5628.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5629_FLUO.ome.tif	2020-11-06T20:36:15	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5629.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5632_FLUO.ome.tif	2020-11-06T20:38:40	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5632.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5636_FLUO.ome.tif	2020-11-06T20:40:05	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5636.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5637_FLUO.ome.tif	2020-11-06T20:40:26	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5637.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5640_FLUO.ome.tif	2020-11-06T20:40:58	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5640.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5641_FLUO.ome.tif	2020-11-06T20:41:20	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5641.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5644_FLUO.ome.tif	2020-11-06T20:42:58	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5644.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5646_FLUO.ome.tif	2020-11-06T20:43:29	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5646.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5648_FLUO.ome.tif	2020-11-06T20:45:43	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5648.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5649_FLUO.ome.tif	2020-11-06T20:46:04	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5649.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5652_FLUO.ome.tif	2020-11-06T20:46:37	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5652.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5653_FLUO.ome.tif	2020-11-06T20:46:55	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5653.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-Abeta42_run-5656_FLUO.ome.tif	2020-11-06T20:47:41	Abeta42	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5656.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-16052_FLUO.ome.tif	2021-06-08T18:48:29	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up 2	Female P45 Positive 0219/0219 Follow-up 2/Snap-16052.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-4461_FLUO.ome.tif	2020-10-20T20:55:02	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4461.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-4462_FLUO.ome.tif	2020-10-20T20:55:40	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4462.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-4485_FLUO.ome.tif	2020-10-20T21:04:36	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4485.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-4486_FLUO.ome.tif	2020-10-20T21:05:10	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4486.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-4493_FLUO.ome.tif	2020-10-20T21:12:03	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4493.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-4494_FLUO.ome.tif	2020-10-20T21:12:30	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4494.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-4504_FLUO.ome.tif	2020-10-20T21:17:37	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4504.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5607_FLUO.ome.tif	2020-11-06T20:27:18	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5607.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5608_FLUO.ome.tif	2020-11-06T20:27:52	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5608.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5612_FLUO.ome.tif	2020-11-06T20:28:44	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5612.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5617_FLUO.ome.tif	2020-11-06T20:30:23	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5617.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5618_FLUO.ome.tif	2020-11-06T20:30:52	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5618.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5623_FLUO.ome.tif	2020-11-06T20:34:55	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5623.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5626_FLUO.ome.tif	2020-11-06T20:35:37	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5626.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5627_FLUO.ome.tif	2020-11-06T20:35:50	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5627.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5630_FLUO.ome.tif	2020-11-06T20:36:46	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5630.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5631_FLUO.ome.tif	2020-11-06T20:38:34	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5631.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5635_FLUO.ome.tif	2020-11-06T20:39:59	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5635.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5638_FLUO.ome.tif	2020-11-06T20:40:43	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5638.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5639_FLUO.ome.tif	2020-11-06T20:40:52	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5639.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5642_FLUO.ome.tif	2020-11-06T20:41:37	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5642.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5643_FLUO.ome.tif	2020-11-06T20:42:51	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5643.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5645_FLUO.ome.tif	2020-11-06T20:43:23	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5645.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5647_FLUO.ome.tif	2020-11-06T20:45:38	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5647.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5650_FLUO.ome.tif	2020-11-06T20:46:22	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5650.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5651_FLUO.ome.tif	2020-11-06T20:46:32	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5651.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5654_FLUO.ome.tif	2020-11-06T20:47:12	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5654.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-5655_FLUO.ome.tif	2020-11-06T20:47:37	DAPI	12.5X	high	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5655.czi
+micr/sub-0219_sample-brain_acq-12p5x_stain-DAPI_run-8238_FLUO.ome.tif	2020-12-15T16:49:52	DAPI	12.5X	high	czi	auditory cortex	ACtx	0219 ctx images	Female P45 Positive 0219/0219 ctx images/Snap-8238.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10038_FLUO.ome.tif	2021-01-26T23:59:47	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10038.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10039_FLUO.ome.tif	2021-01-26T23:59:51	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10039.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10040_FLUO.ome.tif	2021-01-26T23:59:58	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10040.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10041_FLUO.ome.tif	2021-01-27T00:00:12	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10041.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10042_FLUO.ome.tif	2021-01-27T00:00:16	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10042.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10043_FLUO.ome.tif	2021-01-27T00:00:27	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10043.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10047_FLUO.ome.tif	2021-01-27T00:01:11	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10047.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10048_FLUO.ome.tif	2021-01-27T00:01:15	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10048.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10049_FLUO.ome.tif	2021-01-27T00:01:21	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10049.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10050_FLUO.ome.tif	2021-01-27T00:01:30	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10050.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10051_FLUO.ome.tif	2021-01-27T00:01:35	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10051.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-10052_FLUO.ome.tif	2021-01-27T00:01:42	Abeta42	200X	rule	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10052.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4463_FLUO.ome.tif	2020-10-20T20:56:24	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4463.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4464_FLUO.ome.tif	2020-10-20T20:56:50	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4464.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4467_FLUO.ome.tif	2020-10-20T20:58:25	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4467.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4468_FLUO.ome.tif	2020-10-20T20:58:30	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4468.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4469_FLUO.ome.tif	2020-10-20T20:58:39	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4469.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4470_FLUO.ome.tif	2020-10-20T20:59:15	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4470.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4471_FLUO.ome.tif	2020-10-20T20:59:20	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4471.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4472_FLUO.ome.tif	2020-10-20T20:59:34	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4472.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4473_FLUO.ome.tif	2020-10-20T20:59:51	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4473.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4474_FLUO.ome.tif	2020-10-20T20:59:55	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4474.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4475_FLUO.ome.tif	2020-10-20T21:00:09	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4475.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4476_FLUO.ome.tif	2020-10-20T21:00:31	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4476.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4477_FLUO.ome.tif	2020-10-20T21:00:36	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4477.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4478_FLUO.ome.tif	2020-10-20T21:00:41	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4478.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4479_FLUO.ome.tif	2020-10-20T21:00:52	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4479.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4480_FLUO.ome.tif	2020-10-20T21:01:12	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4480.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4481_FLUO.ome.tif	2020-10-20T21:01:17	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4481.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4482_FLUO.ome.tif	2020-10-20T21:01:24	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4482.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4483_FLUO.ome.tif	2020-10-20T21:01:47	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4483.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4484_FLUO.ome.tif	2020-10-20T21:01:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4484.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4487_FLUO.ome.tif	2020-10-20T21:06:12	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4487.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4488_FLUO.ome.tif	2020-10-20T21:06:42	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4488.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4489_FLUO.ome.tif	2020-10-20T21:07:15	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4489.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4490_FLUO.ome.tif	2020-10-20T21:07:24	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4490.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4491_FLUO.ome.tif	2020-10-20T21:07:46	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4491.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4492_FLUO.ome.tif	2020-10-20T21:08:24	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4492.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4495_FLUO.ome.tif	2020-10-20T21:13:30	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4495.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4496_FLUO.ome.tif	2020-10-20T21:13:40	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4496.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4497_FLUO.ome.tif	2020-10-20T21:14:02	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4497.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4498_FLUO.ome.tif	2020-10-20T21:14:09	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4498.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4499_FLUO.ome.tif	2020-10-20T21:14:18	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4499.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4500_FLUO.ome.tif	2020-10-20T21:14:33	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4500.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4501_FLUO.ome.tif	2020-10-20T21:14:56	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4501.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4502_FLUO.ome.tif	2020-10-20T21:15:06	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4502.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4503_FLUO.ome.tif	2020-10-20T21:15:18	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4503.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4507_FLUO.ome.tif	2020-10-20T21:18:37	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4507.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-4508_FLUO.ome.tif	2020-10-20T21:19:13	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P45 Positive 0219/Snap-4508.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5606_FLUO.ome.tif	2020-11-06T20:26:55	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5606.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5609_FLUO.ome.tif	2020-11-06T20:27:58	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5609.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5610_FLUO.ome.tif	2020-11-06T20:28:11	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5610.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5614_FLUO.ome.tif	2020-11-06T20:29:31	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5614.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5615_FLUO.ome.tif	2020-11-06T20:29:42	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5615.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5619_FLUO.ome.tif	2020-11-06T20:30:57	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5619.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5620_FLUO.ome.tif	2020-11-06T20:31:10	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5620.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5622_FLUO.ome.tif	2020-11-06T20:33:00	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5622.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5634_FLUO.ome.tif	2020-11-06T20:39:16	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5634.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5683_FLUO.ome.tif	2020-11-06T20:57:45	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5683.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5684_FLUO.ome.tif	2020-11-06T20:58:07	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5684.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5685_FLUO.ome.tif	2020-11-06T20:58:12	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5685.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5686_FLUO.ome.tif	2020-11-06T20:58:19	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5686.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5687_FLUO.ome.tif	2020-11-06T20:58:33	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5687.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5688_FLUO.ome.tif	2020-11-06T20:58:38	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5688.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5689_FLUO.ome.tif	2020-11-06T20:58:43	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5689.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5690_FLUO.ome.tif	2020-11-06T20:59:10	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5690.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5691_FLUO.ome.tif	2020-11-06T20:59:38	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5691.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5692_FLUO.ome.tif	2020-11-06T20:59:54	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5692.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5693_FLUO.ome.tif	2020-11-06T21:00:08	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5693.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5694_FLUO.ome.tif	2020-11-06T21:00:11	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5694.czi
+micr/sub-0219_sample-brain_acq-200x_stain-Abeta42_run-5695_FLUO.ome.tif	2020-11-06T21:00:16	Abeta42	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5695.czi
+micr/sub-0219_sample-brain_acq-200x_stain-DAPI_run-10037_FLUO.ome.tif	2021-01-26T23:59:33	DAPI	200X	high	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10037.czi
+micr/sub-0219_sample-brain_acq-200x_stain-DAPI_run-10044_FLUO.ome.tif	2021-01-27T00:00:40	DAPI	200X	high	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10044.czi
+micr/sub-0219_sample-brain_acq-200x_stain-DAPI_run-10045_FLUO.ome.tif	2021-01-27T00:00:44	DAPI	200X	high	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10045.czi
+micr/sub-0219_sample-brain_acq-200x_stain-DAPI_run-10046_FLUO.ome.tif	2021-01-27T00:01:03	DAPI	200X	high	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10046.czi
+micr/sub-0219_sample-brain_acq-200x_stain-DAPI_run-10053_FLUO.ome.tif	2021-01-27T00:01:54	DAPI	200X	high	czi	subiculum	S	0219 sub images	Female P45 Positive 0219/0219 sub images/Snap-10053.czi
+micr/sub-0219_sample-brain_acq-200x_stain-autofluorescence_run-5633_FLUO.ome.tif	2020-11-06T20:39:10	autofluorescence	200X	rule	czi	n/a	n/a	0219 Follow-up	Female P45 Positive 0219/0219 Follow-up/Snap-5633.czi

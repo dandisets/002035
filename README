@@ -1,0 +1,37 @@
+Raw widefield fluorescence images supporting:
+Weible AP, Wehr M (2022) Amyloid Pathology in the Central Auditory Pathway of 5XFAD Mice Appears First in
+Auditory Cortex. J Alzheimers Dis 89(4):1385-1402. doi:10.3233/JAD-220538. PMCID: PMC10097438.
+
+Hemizygous 5XFAD mice (JAX 006554, B6SJL hybrid background) were perfused at P14-P150; brains were cut in
+30 um coronal sections and labeled with anti-Abeta42 (Invitrogen 700254; Alexa Fluor 488 secondary) and DAPI.
+Images were acquired on a Zeiss Axio Imager A2 with an AxioCam MRm3 camera in ZEN 3.1, one channel per image.
+Wild-type controls showed no detectable label and were not imaged.
+
+FILE FORMAT. Images are single-channel OME-TIFF. Where the original .czi survives intact they hold the
+12-bit raw data (uint16). For a minority of images the .czi was missing or corrupted (including all images
+of mice 0245, 0242 and 0393); these were converted from ZEN's 8-bit .jpg export (display-scaled, signal
+channel only) and are marked SourceFormat / source_format = jpg.
+
+MAGNIFICATION. The microscope's objectives are changed by hand, and the objective recorded by ZEN is not
+reliable. Magnification was therefore inferred from image content, and pixel size derived from it:
+  acq-12p5x  overview, 1.25x objective (12.5X total with 10x eyepiece), 5.16 um/pixel
+  acq-100x   10x objective (100X total), 0.645 um/pixel
+  acq-200x   20x objective (200X total), 0.3225 um/pixel
+DAPI images were classified from nucleus size; Abeta42 and red images take the class of the DAPI image of the
+same field (matched by image similarity), and Abeta42 focal stacks without a matching DAPI image are 200X,
+following the imaging protocol. Each image's sidecar gives MagnificationSource and MagnificationConfidence; please confirm
+the scale visually before making quantitative measurements.
+
+ORGANIZATION. Each image sequence begins with low-magnification coronal overviews used to locate the
+high-magnification fields of view in each region examined. High-magnification fields include several Abeta42
+images (stain-Abeta42) at different focal depths, DAPI images (stain-DAPI), and, where needed, a red-channel
+image (stain-autofluorescence) to distinguish antibody label from autofluorescence. If no images of a region
+are included for a mouse, no label was judged present at the time of imaging.
+
+Images for each mouse were acquired in a main imaging pass followed, for many mice, by later targeted
+rounds (e.g. follow-up imaging, or region-specific rounds for subiculum, MGB, SOC, PRNc) that may or may not
+be of the same sections. These rounds are not split into BIDS sessions because all images come from the same
+fixed tissue; the acquisition time and original subfolder of every image are listed in sub-<ID>_scans.tsv.
+run-<N> is the original ZEN snapshot number (Snap-N); where ZEN reused a snapshot number within a mouse,
+later repeats are numbered N+100000. The imaged region, where recorded in the original folder name, is given
+in each image's BodyPartDetails and in scans.tsv; n/a means not recorded.

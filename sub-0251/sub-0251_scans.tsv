@@ -1,0 +1,219 @@
+filename	acq_time	stain	magnification	magnification_confidence	source_format	region	region_abbr	original_subfolder	original_file
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-11774_FLUO.ome.tif	2021-03-05T20:55:02	Abeta42	100X	high	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11774.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-11776_FLUO.ome.tif	2021-03-05T20:55:26	Abeta42	100X	high	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11776.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-11781_FLUO.ome.tif	2021-03-05T20:57:11	Abeta42	100X	high	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11781.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-11783_FLUO.ome.tif	2021-03-05T20:57:42	Abeta42	100X	high	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11783.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7298_FLUO.ome.tif	2020-11-19T20:33:03	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7298.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7301_FLUO.ome.tif	2020-11-19T20:33:33	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7301.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7330_FLUO.ome.tif	2020-11-19T20:41:39	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7330.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7360_FLUO.ome.tif	2020-11-19T20:50:09	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7360.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7383_FLUO.ome.tif	2020-11-19T20:57:12	Abeta42	100X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7383.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7385_FLUO.ome.tif	2020-11-19T20:57:47	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7385.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7386_FLUO.ome.tif	2020-11-19T20:58:13	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7386.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7389_FLUO.ome.tif	2020-11-19T20:58:57	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7389.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7390_FLUO.ome.tif	2020-11-19T20:59:20	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7390.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7393_FLUO.ome.tif	2020-11-19T21:00:09	Abeta42	100X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7393.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7394_FLUO.ome.tif	2020-11-19T21:00:35	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7394.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7397_FLUO.ome.tif	2020-11-19T21:01:31	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7397.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7399_FLUO.ome.tif	2020-11-19T21:02:15	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7399.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7400_FLUO.ome.tif	2020-11-19T21:07:32	Abeta42	100X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7400.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7403_FLUO.ome.tif	2020-11-19T21:11:41	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7403.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7455_FLUO.ome.tif	2020-11-19T21:27:32	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7455.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7456_FLUO.ome.tif	2020-11-19T21:27:50	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7456.czi
+micr/sub-0251_sample-brain_acq-100x_stain-Abeta42_run-7459_FLUO.ome.tif	2020-11-19T21:28:28	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7459.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-11775_FLUO.ome.tif	2021-03-05T20:55:11	DAPI	100X	high	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11775.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-11777_FLUO.ome.tif	2021-03-05T20:55:34	DAPI	100X	high	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11777.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-11782_FLUO.ome.tif	2021-03-05T20:57:24	DAPI	100X	high	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11782.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-11784_FLUO.ome.tif	2021-03-05T20:57:49	DAPI	100X	high	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11784.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7299_FLUO.ome.tif	2020-11-19T20:33:14	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7299.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7300_FLUO.ome.tif	2020-11-19T20:33:22	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7300.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7332_FLUO.ome.tif	2020-11-19T20:42:01	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7332.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7362_FLUO.ome.tif	2020-11-19T20:50:32	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7362.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7382_FLUO.ome.tif	2020-11-19T20:56:58	DAPI	100X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7382.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7384_FLUO.ome.tif	2020-11-19T20:57:42	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7384.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7387_FLUO.ome.tif	2020-11-19T20:58:30	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7387.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7388_FLUO.ome.tif	2020-11-19T20:58:44	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7388.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7391_FLUO.ome.tif	2020-11-19T20:59:37	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7391.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7392_FLUO.ome.tif	2020-11-19T20:59:49	DAPI	100X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7392.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7395_FLUO.ome.tif	2020-11-19T21:00:52	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7395.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7396_FLUO.ome.tif	2020-11-19T21:01:16	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7396.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7398_FLUO.ome.tif	2020-11-19T21:02:01	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7398.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7401_FLUO.ome.tif	2020-11-19T21:07:47	DAPI	100X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7401.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7402_FLUO.ome.tif	2020-11-19T21:11:35	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7402.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7447_FLUO.ome.tif	2020-11-19T21:24:53	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7447.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7452_FLUO.ome.tif	2020-11-19T21:25:53	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7452.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7453_FLUO.ome.tif	2020-11-19T21:27:19	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7453.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7454_FLUO.ome.tif	2020-11-19T21:27:27	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7454.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7457_FLUO.ome.tif	2020-11-19T21:28:06	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7457.czi
+micr/sub-0251_sample-brain_acq-100x_stain-DAPI_run-7458_FLUO.ome.tif	2020-11-19T21:28:23	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7458.czi
+micr/sub-0251_sample-brain_acq-100x_stain-autofluorescence_run-7331_FLUO.ome.tif	2020-11-19T20:41:47	autofluorescence	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7331.czi
+micr/sub-0251_sample-brain_acq-100x_stain-autofluorescence_run-7361_FLUO.ome.tif	2020-11-19T20:50:17	autofluorescence	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7361.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7282_FLUO.ome.tif	2020-11-19T20:29:15	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7282.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7285_FLUO.ome.tif	2020-11-19T20:29:46	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7285.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7289_FLUO.ome.tif	2020-11-19T20:30:52	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7289.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7290_FLUO.ome.tif	2020-11-19T20:31:02	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7290.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7293_FLUO.ome.tif	2020-11-19T20:31:21	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7293.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7307_FLUO.ome.tif	2020-11-19T20:34:44	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7307.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7309_FLUO.ome.tif	2020-11-19T20:35:06	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7309.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7314_FLUO.ome.tif	2020-11-19T20:36:11	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7314.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7317_FLUO.ome.tif	2020-11-19T20:36:50	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7317.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7322_FLUO.ome.tif	2020-11-19T20:39:26	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7322.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7325_FLUO.ome.tif	2020-11-19T20:39:58	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7325.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7327_FLUO.ome.tif	2020-11-19T20:40:24	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7327.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7334_FLUO.ome.tif	2020-11-19T20:42:22	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7334.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7338_FLUO.ome.tif	2020-11-19T20:43:36	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7338.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7341_FLUO.ome.tif	2020-11-19T20:44:10	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7341.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7342_FLUO.ome.tif	2020-11-19T20:44:28	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7342.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7363_FLUO.ome.tif	2020-11-19T20:50:54	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7363.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7365_FLUO.ome.tif	2020-11-19T20:52:03	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7365.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7366_FLUO.ome.tif	2020-11-19T20:52:18	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7366.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7372_FLUO.ome.tif	2020-11-19T20:54:11	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7372.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7375_FLUO.ome.tif	2020-11-19T20:54:51	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7375.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7376_FLUO.ome.tif	2020-11-19T20:55:16	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7376.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-Abeta42_run-7379_FLUO.ome.tif	2020-11-19T20:55:47	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7379.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7280_FLUO.ome.tif	2020-11-19T20:28:53	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7280.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7283_FLUO.ome.tif	2020-11-19T20:29:28	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7283.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7284_FLUO.ome.tif	2020-11-19T20:29:40	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7284.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7287_FLUO.ome.tif	2020-11-19T20:30:22	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7287.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7288_FLUO.ome.tif	2020-11-19T20:30:48	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7288.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7291_FLUO.ome.tif	2020-11-19T20:31:09	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7291.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7292_FLUO.ome.tif	2020-11-19T20:31:16	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7292.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7296_FLUO.ome.tif	2020-11-19T20:32:42	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7296.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7306_FLUO.ome.tif	2020-11-19T20:34:35	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7306.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7311_FLUO.ome.tif	2020-11-19T20:35:24	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7311.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7312_FLUO.ome.tif	2020-11-19T20:35:47	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7312.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7315_FLUO.ome.tif	2020-11-19T20:36:34	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7315.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7316_FLUO.ome.tif	2020-11-19T20:36:46	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7316.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7319_FLUO.ome.tif	2020-11-19T20:37:29	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7319.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7320_FLUO.ome.tif	2020-11-19T20:39:07	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7320.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7323_FLUO.ome.tif	2020-11-19T20:39:37	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7323.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7324_FLUO.ome.tif	2020-11-19T20:39:49	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7324.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7329_FLUO.ome.tif	2020-11-19T20:40:44	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7329.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7333_FLUO.ome.tif	2020-11-19T20:42:13	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7333.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7336_FLUO.ome.tif	2020-11-19T20:43:13	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7336.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7339_FLUO.ome.tif	2020-11-19T20:43:53	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7339.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7340_FLUO.ome.tif	2020-11-19T20:44:04	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7340.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7343_FLUO.ome.tif	2020-11-19T20:44:46	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7343.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7364_FLUO.ome.tif	2020-11-19T20:51:11	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7364.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7368_FLUO.ome.tif	2020-11-19T20:52:38	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7368.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7370_FLUO.ome.tif	2020-11-19T20:53:43	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7370.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7373_FLUO.ome.tif	2020-11-19T20:54:28	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7373.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7374_FLUO.ome.tif	2020-11-19T20:54:44	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7374.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7377_FLUO.ome.tif	2020-11-19T20:55:33	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7377.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7378_FLUO.ome.tif	2020-11-19T20:55:42	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7378.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7381_FLUO.ome.tif	2020-11-19T20:56:23	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7381.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7445_FLUO.ome.tif	2020-11-19T21:24:08	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7445.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7446_FLUO.ome.tif	2020-11-19T21:24:18	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7446.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-DAPI_run-7449_FLUO.ome.tif	2020-11-19T21:25:25	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7449.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-autofluorescence_run-7308_FLUO.ome.tif	2020-11-19T20:34:51	autofluorescence	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7308.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-autofluorescence_run-7310_FLUO.ome.tif	2020-11-19T20:35:12	autofluorescence	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7310.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-autofluorescence_run-7326_FLUO.ome.tif	2020-11-19T20:40:04	autofluorescence	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7326.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-autofluorescence_run-7328_FLUO.ome.tif	2020-11-19T20:40:31	autofluorescence	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7328.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-autofluorescence_run-7335_FLUO.ome.tif	2020-11-19T20:42:28	autofluorescence	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7335.czi
+micr/sub-0251_sample-brain_acq-12p5x_stain-autofluorescence_run-7367_FLUO.ome.tif	2020-11-19T20:52:26	autofluorescence	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7367.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10195_FLUO.ome.tif	2021-01-28T17:59:10	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10195.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10196_FLUO.ome.tif	2021-01-28T17:59:16	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10196.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10197_FLUO.ome.tif	2021-01-28T17:59:24	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10197.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10199_FLUO.ome.tif	2021-01-28T17:59:59	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10199.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10200_FLUO.ome.tif	2021-01-28T18:00:05	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10200.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10201_FLUO.ome.tif	2021-01-28T18:00:13	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10201.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10204_FLUO.ome.tif	2021-01-28T18:00:51	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10204.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10205_FLUO.ome.tif	2021-01-28T18:01:23	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10205.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10206_FLUO.ome.tif	2021-01-28T18:01:29	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10206.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10209_FLUO.ome.tif	2021-01-28T18:02:14	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10209.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10210_FLUO.ome.tif	2021-01-28T18:02:21	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10210.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-10211_FLUO.ome.tif	2021-01-28T18:02:28	Abeta42	200X	rule	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10211.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-11778_FLUO.ome.tif	2021-03-05T20:56:21	Abeta42	200X	rule	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11778.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-11779_FLUO.ome.tif	2021-03-05T20:56:43	Abeta42	200X	rule	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11779.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7281_FLUO.ome.tif	2020-11-19T20:29:01	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7281.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7286_FLUO.ome.tif	2020-11-19T20:30:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7286.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7294_FLUO.ome.tif	2020-11-19T20:31:42	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7294.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7295_FLUO.ome.tif	2020-11-19T20:32:12	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7295.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7297_FLUO.ome.tif	2020-11-19T20:32:47	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7297.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7302_FLUO.ome.tif	2020-11-19T20:33:56	Abeta42	200X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7302.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7313_FLUO.ome.tif	2020-11-19T20:35:55	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7313.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7318_FLUO.ome.tif	2020-11-19T20:37:10	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7318.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7321_FLUO.ome.tif	2020-11-19T20:39:11	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7321.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7337_FLUO.ome.tif	2020-11-19T20:43:18	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7337.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7344_FLUO.ome.tif	2020-11-19T20:46:17	Abeta42	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7344.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7348_FLUO.ome.tif	2020-11-19T20:47:05	Abeta42	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7348.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7349_FLUO.ome.tif	2020-11-19T20:47:24	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7349.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7352_FLUO.ome.tif	2020-11-19T20:48:02	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7352.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7355_FLUO.ome.tif	2020-11-19T20:48:49	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7355.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7358_FLUO.ome.tif	2020-11-19T20:49:21	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7358.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7369_FLUO.ome.tif	2020-11-19T20:53:15	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7369.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7371_FLUO.ome.tif	2020-11-19T20:53:51	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7371.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7380_FLUO.ome.tif	2020-11-19T20:56:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7380.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7404_FLUO.ome.tif	2020-11-19T21:12:06	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7404.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7405_FLUO.ome.tif	2020-11-19T21:12:17	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7405.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7407_FLUO.ome.tif	2020-11-19T21:12:57	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7407.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7408_FLUO.ome.tif	2020-11-19T21:13:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7408.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7409_FLUO.ome.tif	2020-11-19T21:13:21	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7409.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7413_FLUO.ome.tif	2020-11-19T21:14:44	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7413.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7414_FLUO.ome.tif	2020-11-19T21:14:59	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7414.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7415_FLUO.ome.tif	2020-11-19T21:15:17	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7415.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7416_FLUO.ome.tif	2020-11-19T21:15:32	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7416.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7417_FLUO.ome.tif	2020-11-19T21:15:44	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7417.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7418_FLUO.ome.tif	2020-11-19T21:16:04	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7418.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7419_FLUO.ome.tif	2020-11-19T21:16:23	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7419.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7421_FLUO.ome.tif	2020-11-19T21:16:52	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7421.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7422_FLUO.ome.tif	2020-11-19T21:17:45	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7422.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7423_FLUO.ome.tif	2020-11-19T21:17:51	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7423.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7424_FLUO.ome.tif	2020-11-19T21:18:08	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7424.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7425_FLUO.ome.tif	2020-11-19T21:18:33	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7425.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7427_FLUO.ome.tif	2020-11-19T21:19:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7427.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7429_FLUO.ome.tif	2020-11-19T21:19:30	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7429.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7430_FLUO.ome.tif	2020-11-19T21:19:58	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7430.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7431_FLUO.ome.tif	2020-11-19T21:20:11	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7431.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7432_FLUO.ome.tif	2020-11-19T21:20:25	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7432.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7433_FLUO.ome.tif	2020-11-19T21:20:39	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7433.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7434_FLUO.ome.tif	2020-11-19T21:20:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7434.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7435_FLUO.ome.tif	2020-11-19T21:21:10	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7435.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7436_FLUO.ome.tif	2020-11-19T21:21:24	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7436.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7437_FLUO.ome.tif	2020-11-19T21:21:47	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7437.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7438_FLUO.ome.tif	2020-11-19T21:21:59	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7438.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7439_FLUO.ome.tif	2020-11-19T21:22:30	Abeta42	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7439.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7442_FLUO.ome.tif	2020-11-19T21:23:00	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7442.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7448_FLUO.ome.tif	2020-11-19T21:25:02	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7448.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7450_FLUO.ome.tif	2020-11-19T21:25:29	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7450.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7451_FLUO.ome.tif	2020-11-19T21:25:42	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7451.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7460_FLUO.ome.tif	2020-11-19T21:28:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7460.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7461_FLUO.ome.tif	2020-11-19T21:29:02	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7461.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7462_FLUO.ome.tif	2020-11-19T21:29:14	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7462.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7463_FLUO.ome.tif	2020-11-19T21:29:20	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7463.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7464_FLUO.ome.tif	2020-11-19T21:29:27	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7464.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7465_FLUO.ome.tif	2020-11-19T21:29:40	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7465.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7466_FLUO.ome.tif	2020-11-19T21:29:45	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7466.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7467_FLUO.ome.tif	2020-11-19T21:29:53	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7467.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7468_FLUO.ome.tif	2020-11-19T21:30:11	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7468.czi
+micr/sub-0251_sample-brain_acq-200x_stain-Abeta42_run-7469_FLUO.ome.tif	2020-11-19T21:30:20	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7469.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-10198_FLUO.ome.tif	2021-01-28T17:59:33	DAPI	200X	high	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10198.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-10202_FLUO.ome.tif	2021-01-28T18:00:23	DAPI	200X	high	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10202.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-10203_FLUO.ome.tif	2021-01-28T18:00:41	DAPI	200X	high	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10203.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-10207_FLUO.ome.tif	2021-01-28T18:01:40	DAPI	200X	high	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10207.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-10208_FLUO.ome.tif	2021-01-28T18:01:55	DAPI	200X	high	czi	subiculum	S	0251 subiculum	Male P60 Positive 0251/0251 subiculum/Snap-10208.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-11780_FLUO.ome.tif	2021-03-05T20:56:53	DAPI	200X	high	czi	superior olivary complex	SOC	0251 SOC s3	Male P60 Positive 0251/0251 SOC s3/Snap-11780.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-7305_FLUO.ome.tif	2020-11-19T20:34:25	DAPI	200X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7305.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-7346_FLUO.ome.tif	2020-11-19T20:46:33	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7346.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-7347_FLUO.ome.tif	2020-11-19T20:46:58	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7347.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-7351_FLUO.ome.tif	2020-11-19T20:47:46	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7351.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-7354_FLUO.ome.tif	2020-11-19T20:48:21	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7354.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-7357_FLUO.ome.tif	2020-11-19T20:49:05	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7357.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-7359_FLUO.ome.tif	2020-11-19T20:49:29	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7359.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-7441_FLUO.ome.tif	2020-11-19T21:22:45	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7441.czi
+micr/sub-0251_sample-brain_acq-200x_stain-DAPI_run-7444_FLUO.ome.tif	2020-11-19T21:23:17	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7444.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7303_FLUO.ome.tif	2020-11-19T20:34:02	autofluorescence	200X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7303.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7304_FLUO.ome.tif	2020-11-19T20:34:14	autofluorescence	200X	low	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7304.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7345_FLUO.ome.tif	2020-11-19T20:46:25	autofluorescence	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7345.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7350_FLUO.ome.tif	2020-11-19T20:47:33	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7350.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7353_FLUO.ome.tif	2020-11-19T20:48:11	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7353.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7356_FLUO.ome.tif	2020-11-19T20:48:57	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7356.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7406_FLUO.ome.tif	2020-11-19T21:12:28	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7406.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7410_FLUO.ome.tif	2020-11-19T21:13:48	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7410.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7411_FLUO.ome.tif	2020-11-19T21:14:03	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7411.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7412_FLUO.ome.tif	2020-11-19T21:14:12	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7412.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7420_FLUO.ome.tif	2020-11-19T21:16:32	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7420.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7426_FLUO.ome.tif	2020-11-19T21:18:39	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7426.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7428_FLUO.ome.tif	2020-11-19T21:19:15	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7428.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7440_FLUO.ome.tif	2020-11-19T21:22:36	autofluorescence	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7440.czi
+micr/sub-0251_sample-brain_acq-200x_stain-autofluorescence_run-7443_FLUO.ome.tif	2020-11-19T21:23:05	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0251/Snap-7443.czi

@@ -1,0 +1,255 @@
+filename	acq_time	stain	magnification	magnification_confidence	source_format	region	region_abbr	original_subfolder	original_file
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-20507_FLUO.ome.tif	2021-08-06T16:11:14	Abeta42	100X	high	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20507.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-20509_FLUO.ome.tif	2021-08-06T16:12:00	Abeta42	100X	high	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20509.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-20510_FLUO.ome.tif	2021-08-06T16:12:12	Abeta42	100X	high	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20510.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-20969_FLUO.ome.tif	2021-11-26T19:39:33	Abeta42	100X	high	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20969.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7424_FLUO.ome.tif	2020-11-27T17:08:44	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7424.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7427_FLUO.ome.tif	2020-11-27T17:09:20	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7427.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7429_FLUO.ome.tif	2020-11-27T17:09:52	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7429.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7430_FLUO.ome.tif	2020-11-27T17:10:02	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7430.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7464_FLUO.ome.tif	2020-11-27T17:31:51	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7464.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7465_FLUO.ome.tif	2020-11-27T17:32:02	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7465.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7466_FLUO.ome.tif	2020-11-27T17:32:20	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7466.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7505_FLUO.ome.tif	2020-11-27T17:49:02	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7505.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7524_FLUO.ome.tif	2020-11-27T17:57:03	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7524.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7526_FLUO.ome.tif	2020-11-27T17:57:48	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7526.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7528_FLUO.ome.tif	2020-11-27T17:58:24	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7528.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7530_FLUO.ome.tif	2020-11-27T17:59:07	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7530.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7532_FLUO.ome.tif	2020-11-27T17:59:37	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7532.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7534_FLUO.ome.tif	2020-11-27T18:00:05	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7534.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7536_FLUO.ome.tif	2020-11-27T18:00:35	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7536.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7538_FLUO.ome.tif	2020-11-27T18:01:12	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7538.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7540_FLUO.ome.tif	2020-11-27T18:01:48	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7540.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7552_FLUO.ome.tif	2020-11-27T18:05:50	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7552.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7558_FLUO.ome.tif	2020-11-27T18:07:30	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7558.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7560_FLUO.ome.tif	2020-11-27T18:08:02	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7560.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7562_FLUO.ome.tif	2020-11-27T18:08:46	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7562.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7564_FLUO.ome.tif	2020-11-27T18:09:20	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7564.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7566_FLUO.ome.tif	2020-11-27T18:10:15	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7566.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7568_FLUO.ome.tif	2020-11-27T18:10:48	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7568.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7570_FLUO.ome.tif	2020-11-27T18:11:23	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7570.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7572_FLUO.ome.tif	2020-11-27T18:11:49	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7572.czi
+micr/sub-0294_sample-brain_acq-100x_stain-Abeta42_run-7574_FLUO.ome.tif	2020-11-27T18:12:22	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7574.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-20506_FLUO.ome.tif	2021-08-06T16:11:10	DAPI	100X	high	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20506.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-20508_FLUO.ome.tif	2021-08-06T16:11:55	DAPI	100X	high	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20508.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-20511_FLUO.ome.tif	2021-08-06T16:12:16	DAPI	100X	high	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20511.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-20970_FLUO.ome.tif	2021-11-26T19:39:39	DAPI	100X	high	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20970.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-20971_FLUO.ome.tif	2021-11-26T19:39:52	DAPI	100X	high	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20971.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-20984_FLUO.ome.tif	2021-11-26T19:41:00	DAPI	100X	high	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20984.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7425_FLUO.ome.tif	2020-11-27T17:08:56	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7425.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7426_FLUO.ome.tif	2020-11-27T17:09:13	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7426.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7428_FLUO.ome.tif	2020-11-27T17:09:44	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7428.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7439_FLUO.ome.tif	2020-11-27T17:21:38	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7439.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7463_FLUO.ome.tif	2020-11-27T17:31:43	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7463.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7467_FLUO.ome.tif	2020-11-27T17:32:43	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7467.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7506_FLUO.ome.tif	2020-11-27T17:49:16	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7506.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7525_FLUO.ome.tif	2020-11-27T17:57:15	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7525.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7527_FLUO.ome.tif	2020-11-27T17:58:00	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7527.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7529_FLUO.ome.tif	2020-11-27T17:58:40	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7529.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7531_FLUO.ome.tif	2020-11-27T17:59:18	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7531.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7533_FLUO.ome.tif	2020-11-27T17:59:49	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7533.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7535_FLUO.ome.tif	2020-11-27T18:00:17	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7535.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7537_FLUO.ome.tif	2020-11-27T18:00:52	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7537.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7539_FLUO.ome.tif	2020-11-27T18:01:22	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7539.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7541_FLUO.ome.tif	2020-11-27T18:02:02	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7541.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7553_FLUO.ome.tif	2020-11-27T18:06:07	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7553.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7555_FLUO.ome.tif	2020-11-27T18:06:41	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7555.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7557_FLUO.ome.tif	2020-11-27T18:07:14	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7557.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7559_FLUO.ome.tif	2020-11-27T18:07:39	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7559.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7561_FLUO.ome.tif	2020-11-27T18:08:19	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7561.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7563_FLUO.ome.tif	2020-11-27T18:09:01	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7563.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7565_FLUO.ome.tif	2020-11-27T18:09:34	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7565.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7567_FLUO.ome.tif	2020-11-27T18:10:26	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7567.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7569_FLUO.ome.tif	2020-11-27T18:11:02	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7569.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7571_FLUO.ome.tif	2020-11-27T18:11:34	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7571.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7573_FLUO.ome.tif	2020-11-27T18:12:03	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7573.czi
+micr/sub-0294_sample-brain_acq-100x_stain-DAPI_run-7575_FLUO.ome.tif	2020-11-27T18:12:33	DAPI	100X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7575.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-Abeta42_run-7445_FLUO.ome.tif	2020-11-27T17:23:29	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7445.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-Abeta42_run-7454_FLUO.ome.tif	2020-11-27T17:27:28	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7454.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-Abeta42_run-7456_FLUO.ome.tif	2020-11-27T17:28:11	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7456.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-Abeta42_run-7462_FLUO.ome.tif	2020-11-27T17:31:22	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7462.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-Abeta42_run-7468_FLUO.ome.tif	2020-11-27T17:33:37	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7468.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-Abeta42_run-7542_FLUO.ome.tif	2020-11-27T18:02:29	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7542.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-Abeta42_run-7551_FLUO.ome.tif	2020-11-27T18:05:29	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7551.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7419_FLUO.ome.tif	2020-11-27T17:06:20	DAPI	12.5X	low	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7419.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7436_FLUO.ome.tif	2020-11-27T17:20:43	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7436.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7437_FLUO.ome.tif	2020-11-27T17:20:52	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7437.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7438_FLUO.ome.tif	2020-11-27T17:21:05	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7438.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7443_FLUO.ome.tif	2020-11-27T17:22:42	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7443.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7444_FLUO.ome.tif	2020-11-27T17:23:16	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7444.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7451_FLUO.ome.tif	2020-11-27T17:26:42	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7451.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7453_FLUO.ome.tif	2020-11-27T17:27:23	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7453.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7455_FLUO.ome.tif	2020-11-27T17:28:00	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7455.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7457_FLUO.ome.tif	2020-11-27T17:29:30	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7457.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7458_FLUO.ome.tif	2020-11-27T17:29:42	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7458.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7459_FLUO.ome.tif	2020-11-27T17:30:19	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7459.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7460_FLUO.ome.tif	2020-11-27T17:30:35	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7460.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7461_FLUO.ome.tif	2020-11-27T17:31:17	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7461.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7470_FLUO.ome.tif	2020-11-27T17:34:02	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7470.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7472_FLUO.ome.tif	2020-11-27T17:34:50	DAPI	12.5X	low	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7472.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7474_FLUO.ome.tif	2020-11-27T17:37:36	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7474.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7475_FLUO.ome.tif	2020-11-27T17:37:52	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7475.jpg
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7476_FLUO.ome.tif	2020-11-27T17:38:03	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7476.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7477_FLUO.ome.tif	2020-11-27T17:38:18	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7477.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7520_FLUO.ome.tif	2020-11-27T17:54:52	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7520.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7521_FLUO.ome.tif	2020-11-27T17:55:04	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7521.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7522_FLUO.ome.tif	2020-11-27T17:55:12	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7522.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7523_FLUO.ome.tif	2020-11-27T17:55:21	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7523.jpg
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7543_FLUO.ome.tif	2020-11-27T18:02:41	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7543.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-DAPI_run-7550_FLUO.ome.tif	2020-11-27T18:05:17	DAPI	12.5X	low	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7550.czi
+micr/sub-0294_sample-brain_acq-12p5x_stain-autofluorescence_run-7469_FLUO.ome.tif	2020-11-27T17:33:49	autofluorescence	12.5X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7469.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-10212_FLUO.ome.tif	2021-01-28T18:09:26	Abeta42	200X	rule	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10212.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-10213_FLUO.ome.tif	2021-01-28T18:09:36	Abeta42	200X	rule	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10213.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-10215_FLUO.ome.tif	2021-01-28T18:10:10	Abeta42	200X	rule	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10215.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-10216_FLUO.ome.tif	2021-01-28T18:10:23	Abeta42	200X	rule	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10216.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-10217_FLUO.ome.tif	2021-01-28T18:10:32	Abeta42	200X	rule	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10217.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-10220_FLUO.ome.tif	2021-01-28T18:11:17	Abeta42	200X	rule	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10220.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-10221_FLUO.ome.tif	2021-01-28T18:11:24	Abeta42	200X	rule	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10221.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-10222_FLUO.ome.tif	2021-01-28T18:11:32	Abeta42	200X	rule	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10222.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20512_FLUO.ome.tif	2021-08-06T16:12:40	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20512.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20513_FLUO.ome.tif	2021-08-06T16:12:47	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20513.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20514_FLUO.ome.tif	2021-08-06T16:12:50	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20514.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20515_FLUO.ome.tif	2021-08-06T16:12:53	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20515.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20516_FLUO.ome.tif	2021-08-06T16:12:58	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20516.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20517_FLUO.ome.tif	2021-08-06T16:13:10	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20517.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20518_FLUO.ome.tif	2021-08-06T16:13:24	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20518.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20519_FLUO.ome.tif	2021-08-06T16:13:28	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20519.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20520_FLUO.ome.tif	2021-08-06T16:13:31	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20520.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20521_FLUO.ome.tif	2021-08-06T16:13:35	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20521.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20522_FLUO.ome.tif	2021-08-06T16:13:41	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20522.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20523_FLUO.ome.tif	2021-08-06T16:13:59	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20523.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20524_FLUO.ome.tif	2021-08-06T16:14:07	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20524.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20525_FLUO.ome.tif	2021-08-06T16:14:11	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20525.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20526_FLUO.ome.tif	2021-08-06T16:14:15	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20526.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20527_FLUO.ome.tif	2021-08-06T16:14:22	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20527.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20528_FLUO.ome.tif	2021-08-06T16:14:42	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20528.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20529_FLUO.ome.tif	2021-08-06T16:14:45	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20529.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20530_FLUO.ome.tif	2021-08-06T16:14:49	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20530.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20531_FLUO.ome.tif	2021-08-06T16:15:04	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20531.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20532_FLUO.ome.tif	2021-08-06T16:15:08	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20532.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20533_FLUO.ome.tif	2021-08-06T16:15:12	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20533.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20534_FLUO.ome.tif	2021-08-06T16:15:15	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20534.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20535_FLUO.ome.tif	2021-08-06T16:15:19	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20535.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20536_FLUO.ome.tif	2021-08-06T16:15:35	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20536.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20537_FLUO.ome.tif	2021-08-06T16:15:38	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20537.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20538_FLUO.ome.tif	2021-08-06T16:15:41	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20538.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20539_FLUO.ome.tif	2021-08-06T16:15:44	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20539.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20540_FLUO.ome.tif	2021-08-06T16:15:47	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20540.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20541_FLUO.ome.tif	2021-08-06T16:15:50	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20541.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20542_FLUO.ome.tif	2021-08-06T16:16:03	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20542.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20543_FLUO.ome.tif	2021-08-06T16:16:06	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20543.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20544_FLUO.ome.tif	2021-08-06T16:16:29	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20544.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20545_FLUO.ome.tif	2021-08-06T16:16:32	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20545.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20546_FLUO.ome.tif	2021-08-06T16:16:36	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20546.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20547_FLUO.ome.tif	2021-08-06T16:16:40	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20547.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20548_FLUO.ome.tif	2021-08-06T16:16:48	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20548.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20549_FLUO.ome.tif	2021-08-06T16:16:54	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20549.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20550_FLUO.ome.tif	2021-08-06T16:17:00	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20550.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20551_FLUO.ome.tif	2021-08-06T16:17:05	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20551.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20552_FLUO.ome.tif	2021-08-06T16:17:21	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20552.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20553_FLUO.ome.tif	2021-08-06T16:17:25	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20553.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20554_FLUO.ome.tif	2021-08-06T16:17:28	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20554.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20555_FLUO.ome.tif	2021-08-06T16:17:32	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20555.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20556_FLUO.ome.tif	2021-08-06T16:17:35	Abeta42	200X	rule	czi	inferior colliculus	IC	0294 follow up IC	Female P30 Positive 0294/0294 follow up IC/Snap-20556.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20972_FLUO.ome.tif	2021-11-26T19:40:03	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20972.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20973_FLUO.ome.tif	2021-11-26T19:40:06	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20973.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20974_FLUO.ome.tif	2021-11-26T19:40:10	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20974.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20975_FLUO.ome.tif	2021-11-26T19:40:14	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20975.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20976_FLUO.ome.tif	2021-11-26T19:40:18	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20976.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20977_FLUO.ome.tif	2021-11-26T19:40:32	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20977.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20978_FLUO.ome.tif	2021-11-26T19:40:36	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20978.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20979_FLUO.ome.tif	2021-11-26T19:40:39	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20979.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20980_FLUO.ome.tif	2021-11-26T19:40:41	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20980.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20981_FLUO.ome.tif	2021-11-26T19:40:44	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20981.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20982_FLUO.ome.tif	2021-11-26T19:40:47	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20982.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20983_FLUO.ome.tif	2021-11-26T19:40:53	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20983.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20985_FLUO.ome.tif	2021-11-26T19:41:24	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20985.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20986_FLUO.ome.tif	2021-11-26T19:41:27	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20986.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20987_FLUO.ome.tif	2021-11-26T19:41:32	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20987.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20988_FLUO.ome.tif	2021-11-26T19:41:44	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20988.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20989_FLUO.ome.tif	2021-11-26T19:41:47	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20989.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20990_FLUO.ome.tif	2021-11-26T19:41:50	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20990.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20991_FLUO.ome.tif	2021-11-26T19:41:52	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20991.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20992_FLUO.ome.tif	2021-11-26T19:41:56	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20992.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20993_FLUO.ome.tif	2021-11-26T19:42:12	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20993.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20994_FLUO.ome.tif	2021-11-26T19:42:15	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20994.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20995_FLUO.ome.tif	2021-11-26T19:42:21	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20995.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20996_FLUO.ome.tif	2021-11-26T19:42:24	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20996.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-20997_FLUO.ome.tif	2021-11-26T19:42:27	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	0294 PRNc	Female P30 Positive 0294/0294 PRNc/Snap-20997.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7420_FLUO.ome.tif	2020-11-27T17:07:01	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7420.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7421_FLUO.ome.tif	2020-11-27T17:07:33	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7421.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7422_FLUO.ome.tif	2020-11-27T17:07:47	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7422.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7423_FLUO.ome.tif	2020-11-27T17:08:00	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7423.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7431_FLUO.ome.tif	2020-11-27T17:18:11	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7431.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7433_FLUO.ome.tif	2020-11-27T17:18:37	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7433.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7434_FLUO.ome.tif	2020-11-27T17:18:46	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7434.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7440_FLUO.ome.tif	2020-11-27T17:21:46	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7440.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7441_FLUO.ome.tif	2020-11-27T17:22:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7441.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7442_FLUO.ome.tif	2020-11-27T17:22:18	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7442.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7446_FLUO.ome.tif	2020-11-27T17:24:40	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7446.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7449_FLUO.ome.tif	2020-11-27T17:25:42	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7449.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7450_FLUO.ome.tif	2020-11-27T17:26:02	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7450.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7452_FLUO.ome.tif	2020-11-27T17:26:51	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7452.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7471_FLUO.ome.tif	2020-11-27T17:34:41	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7471.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7478_FLUO.ome.tif	2020-11-27T17:39:06	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7478.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7479_FLUO.ome.tif	2020-11-27T17:39:39	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7479.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7481_FLUO.ome.tif	2020-11-27T17:40:32	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7481.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7483_FLUO.ome.tif	2020-11-27T17:40:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7483.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7485_FLUO.ome.tif	2020-11-27T17:41:48	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7485.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7486_FLUO.ome.tif	2020-11-27T17:42:03	Abeta42	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7486.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7489_FLUO.ome.tif	2020-11-27T17:43:04	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7489.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7490_FLUO.ome.tif	2020-11-27T17:43:32	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7490.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7493_FLUO.ome.tif	2020-11-27T17:44:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7493.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7494_FLUO.ome.tif	2020-11-27T17:45:13	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7494.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7497_FLUO.ome.tif	2020-11-27T17:46:22	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7497.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7500_FLUO.ome.tif	2020-11-27T17:47:03	Abeta42	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7500.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7502_FLUO.ome.tif	2020-11-27T17:47:36	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7502.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7507_FLUO.ome.tif	2020-11-27T17:49:37	Abeta42	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7507.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7510_FLUO.ome.tif	2020-11-27T17:50:29	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7510.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7513_FLUO.ome.tif	2020-11-27T17:51:43	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7513.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7516_FLUO.ome.tif	2020-11-27T17:52:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7516.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7517_FLUO.ome.tif	2020-11-27T17:53:08	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7517.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7518_FLUO.ome.tif	2020-11-27T17:53:28	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7518.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7544_FLUO.ome.tif	2020-11-27T18:03:14	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7544.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7545_FLUO.ome.tif	2020-11-27T18:03:28	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7545.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7546_FLUO.ome.tif	2020-11-27T18:03:56	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7546.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7547_FLUO.ome.tif	2020-11-27T18:04:08	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7547.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7548_FLUO.ome.tif	2020-11-27T18:04:21	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7548.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7549_FLUO.ome.tif	2020-11-27T18:04:38	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7549.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7554_FLUO.ome.tif	2020-11-27T18:06:29	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7554.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7556_FLUO.ome.tif	2020-11-27T18:07:04	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7556.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7576_FLUO.ome.tif	2020-11-27T18:13:38	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7576.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7578_FLUO.ome.tif	2020-11-27T18:14:10	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7578.czi
+micr/sub-0294_sample-brain_acq-200x_stain-Abeta42_run-7580_FLUO.ome.tif	2020-11-27T18:14:32	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7580.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-10214_FLUO.ome.tif	2021-01-28T18:09:48	DAPI	200X	high	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10214.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-10218_FLUO.ome.tif	2021-01-28T18:10:48	DAPI	200X	high	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10218.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-10219_FLUO.ome.tif	2021-01-28T18:11:06	DAPI	200X	high	czi	subiculum	S	0294 subiculum	Female P30 Positive 0294/0294 subiculum/Snap-10219.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7432_FLUO.ome.tif	2020-11-27T17:18:19	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7432.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7435_FLUO.ome.tif	2020-11-27T17:18:52	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7435.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7480_FLUO.ome.tif	2020-11-27T17:39:54	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7480.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7482_FLUO.ome.tif	2020-11-27T17:40:43	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7482.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7484_FLUO.ome.tif	2020-11-27T17:41:07	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7484.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7488_FLUO.ome.tif	2020-11-27T17:42:23	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7488.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7492_FLUO.ome.tif	2020-11-27T17:44:16	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7492.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7496_FLUO.ome.tif	2020-11-27T17:45:44	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7496.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7499_FLUO.ome.tif	2020-11-27T17:46:45	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7499.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7501_FLUO.ome.tif	2020-11-27T17:47:15	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7501.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7504_FLUO.ome.tif	2020-11-27T17:48:05	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7504.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7509_FLUO.ome.tif	2020-11-27T17:49:56	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7509.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7512_FLUO.ome.tif	2020-11-27T17:50:55	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7512.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7515_FLUO.ome.tif	2020-11-27T17:52:10	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7515.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7577_FLUO.ome.tif	2020-11-27T18:13:51	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7577.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7579_FLUO.ome.tif	2020-11-27T18:14:15	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7579.czi
+micr/sub-0294_sample-brain_acq-200x_stain-DAPI_run-7581_FLUO.ome.tif	2020-11-27T18:14:40	DAPI	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7581.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7447_FLUO.ome.tif	2020-11-27T17:24:49	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7447.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7448_FLUO.ome.tif	2020-11-27T17:25:04	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7448.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7473_FLUO.ome.tif	2020-11-27T17:34:58	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7473.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7487_FLUO.ome.tif	2020-11-27T17:42:10	autofluorescence	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7487.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7491_FLUO.ome.tif	2020-11-27T17:43:40	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7491.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7495_FLUO.ome.tif	2020-11-27T17:45:22	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7495.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7498_FLUO.ome.tif	2020-11-27T17:46:30	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7498.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7503_FLUO.ome.tif	2020-11-27T17:47:45	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7503.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7508_FLUO.ome.tif	2020-11-27T17:49:47	autofluorescence	200X	high	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7508.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7511_FLUO.ome.tif	2020-11-27T17:50:36	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7511.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7514_FLUO.ome.tif	2020-11-27T17:51:50	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7514.czi
+micr/sub-0294_sample-brain_acq-200x_stain-autofluorescence_run-7519_FLUO.ome.tif	2020-11-27T17:53:35	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Female P30 Positive 0294/Snap-7519.czi

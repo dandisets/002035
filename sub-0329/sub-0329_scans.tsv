@@ -1,0 +1,311 @@
+filename	acq_time	stain	magnification	magnification_confidence	source_format	region	region_abbr	original_subfolder	original_file
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11839_FLUO.ome.tif	2021-03-14T18:16:10	Abeta42	100X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11839.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11849_FLUO.ome.tif	2021-03-14T18:20:04	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11849.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11851_FLUO.ome.tif	2021-03-14T18:20:30	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11851.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11859_FLUO.ome.tif	2021-03-14T18:25:16	Abeta42	100X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11859.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11861_FLUO.ome.tif	2021-03-14T18:26:04	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11861.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11886_FLUO.ome.tif	2021-03-14T18:31:56	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11886.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11907_FLUO.ome.tif	2021-03-14T18:39:55	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11907.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11908_FLUO.ome.tif	2021-03-14T18:40:14	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11908.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11923_FLUO.ome.tif	2021-03-14T18:45:14	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11923.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11925_FLUO.ome.tif	2021-03-14T18:45:53	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11925.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11927_FLUO.ome.tif	2021-03-14T18:46:12	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11927.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11928_FLUO.ome.tif	2021-03-14T18:47:31	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11928.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11931_FLUO.ome.tif	2021-03-14T18:48:00	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11931.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11932_FLUO.ome.tif	2021-03-14T18:48:12	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11932.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11935_FLUO.ome.tif	2021-03-14T18:48:40	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11935.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11936_FLUO.ome.tif	2021-03-14T18:48:52	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11936.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11939_FLUO.ome.tif	2021-03-14T18:49:20	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11939.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11980_FLUO.ome.tif	2021-03-14T19:01:01	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11980.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11996_FLUO.ome.tif	2021-03-14T19:05:06	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11996.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-11997_FLUO.ome.tif	2021-03-14T19:05:19	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11997.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12000_FLUO.ome.tif	2021-03-14T19:05:50	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12000.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12128_FLUO.ome.tif	2021-03-19T17:29:45	Abeta42	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12128.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12129_FLUO.ome.tif	2021-03-19T17:29:55	Abeta42	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12129.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12130_FLUO.ome.tif	2021-03-19T17:30:07	Abeta42	100X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12130.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12133_FLUO.ome.tif	2021-03-19T17:30:47	Abeta42	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12133.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12142_FLUO.ome.tif	2021-03-19T17:35:24	Abeta42	100X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12142.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12148_FLUO.ome.tif	2021-03-19T17:37:04	Abeta42	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12148.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12150_FLUO.ome.tif	2021-03-19T17:37:46	Abeta42	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12150.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12151_FLUO.ome.tif	2021-03-19T17:38:03	Abeta42	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12151.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12154_FLUO.ome.tif	2021-03-19T17:38:37	Abeta42	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12154.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12160_FLUO.ome.tif	2021-03-19T17:55:10	Abeta42	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12160.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12162_FLUO.ome.tif	2021-03-19T17:56:03	Abeta42	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12162.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12165_FLUO.ome.tif	2021-03-19T17:56:46	Abeta42	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12165.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12166_FLUO.ome.tif	2021-03-19T17:56:55	Abeta42	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12166.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12201_FLUO.ome.tif	2021-03-19T18:06:44	Abeta42	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12201.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12206_FLUO.ome.tif	2021-03-19T18:08:05	Abeta42	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12206.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12216_FLUO.ome.tif	2021-03-19T18:13:07	Abeta42	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12216.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12217_FLUO.ome.tif	2021-03-19T18:13:21	Abeta42	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12217.czi
+micr/sub-0329_sample-brain_acq-100x_stain-Abeta42_run-12220_FLUO.ome.tif	2021-03-19T18:13:49	Abeta42	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12220.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11837_FLUO.ome.tif	2021-03-14T18:16:00	DAPI	100X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11837.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11838_FLUO.ome.tif	2021-03-14T18:16:04	DAPI	100X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11838.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11848_FLUO.ome.tif	2021-03-14T18:19:59	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11848.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11850_FLUO.ome.tif	2021-03-14T18:20:25	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11850.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11858_FLUO.ome.tif	2021-03-14T18:25:07	DAPI	100X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11858.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11860_FLUO.ome.tif	2021-03-14T18:25:59	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11860.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11885_FLUO.ome.tif	2021-03-14T18:31:46	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11885.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11906_FLUO.ome.tif	2021-03-14T18:39:50	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11906.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11909_FLUO.ome.tif	2021-03-14T18:40:28	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11909.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11924_FLUO.ome.tif	2021-03-14T18:45:44	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11924.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11926_FLUO.ome.tif	2021-03-14T18:46:08	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11926.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11929_FLUO.ome.tif	2021-03-14T18:47:45	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11929.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11930_FLUO.ome.tif	2021-03-14T18:47:56	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11930.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11933_FLUO.ome.tif	2021-03-14T18:48:23	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11933.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11934_FLUO.ome.tif	2021-03-14T18:48:35	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11934.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11937_FLUO.ome.tif	2021-03-14T18:49:04	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11937.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11938_FLUO.ome.tif	2021-03-14T18:49:15	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11938.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11957_FLUO.ome.tif	2021-03-14T18:57:48	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11957.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11981_FLUO.ome.tif	2021-03-14T19:01:10	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11981.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11995_FLUO.ome.tif	2021-03-14T19:05:02	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11995.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11998_FLUO.ome.tif	2021-03-14T19:05:29	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11998.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-11999_FLUO.ome.tif	2021-03-14T19:05:44	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11999.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12029_FLUO.ome.tif	2021-03-14T19:10:24	DAPI	100X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12029.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12127_FLUO.ome.tif	2021-03-19T17:29:29	DAPI	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12127.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12131_FLUO.ome.tif	2021-03-19T17:30:19	DAPI	100X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12131.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12132_FLUO.ome.tif	2021-03-19T17:30:32	DAPI	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12132.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12143_FLUO.ome.tif	2021-03-19T17:35:47	DAPI	100X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12143.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12147_FLUO.ome.tif	2021-03-19T17:36:53	DAPI	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12147.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12149_FLUO.ome.tif	2021-03-19T17:37:38	DAPI	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12149.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12152_FLUO.ome.tif	2021-03-19T17:38:12	DAPI	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12152.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12153_FLUO.ome.tif	2021-03-19T17:38:26	DAPI	100X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12153.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12161_FLUO.ome.tif	2021-03-19T17:55:25	DAPI	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12161.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12163_FLUO.ome.tif	2021-03-19T17:56:18	DAPI	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12163.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12164_FLUO.ome.tif	2021-03-19T17:56:39	DAPI	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12164.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12167_FLUO.ome.tif	2021-03-19T17:57:06	DAPI	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12167.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12202_FLUO.ome.tif	2021-03-19T18:06:55	DAPI	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12202.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12207_FLUO.ome.tif	2021-03-19T18:08:17	DAPI	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12207.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12215_FLUO.ome.tif	2021-03-19T18:13:01	DAPI	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12215.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12218_FLUO.ome.tif	2021-03-19T18:13:30	DAPI	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12218.czi
+micr/sub-0329_sample-brain_acq-100x_stain-DAPI_run-12219_FLUO.ome.tif	2021-03-19T18:13:43	DAPI	100X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12219.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11828_FLUO.ome.tif	2021-03-14T18:13:29	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11828.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11829_FLUO.ome.tif	2021-03-14T18:13:48	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11829.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11832_FLUO.ome.tif	2021-03-14T18:14:28	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11832.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11833_FLUO.ome.tif	2021-03-14T18:14:46	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11833.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11836_FLUO.ome.tif	2021-03-14T18:15:42	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11836.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11841_FLUO.ome.tif	2021-03-14T18:17:43	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11841.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11842_FLUO.ome.tif	2021-03-14T18:18:02	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11842.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11845_FLUO.ome.tif	2021-03-14T18:18:47	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11845.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11846_FLUO.ome.tif	2021-03-14T18:19:06	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11846.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11855_FLUO.ome.tif	2021-03-14T18:22:09	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11855.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11856_FLUO.ome.tif	2021-03-14T18:22:28	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11856.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11903_FLUO.ome.tif	2021-03-14T18:35:45	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11903.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11904_FLUO.ome.tif	2021-03-14T18:36:14	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11904.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11942_FLUO.ome.tif	2021-03-14T18:53:05	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11942.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11945_FLUO.ome.tif	2021-03-14T18:53:48	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11945.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11946_FLUO.ome.tif	2021-03-14T18:54:10	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11946.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11950_FLUO.ome.tif	2021-03-14T18:55:28	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11950.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11953_FLUO.ome.tif	2021-03-14T18:56:06	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11953.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11954_FLUO.ome.tif	2021-03-14T18:56:29	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11954.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11956_FLUO.ome.tif	2021-03-14T18:56:59	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11956.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-11994_FLUO.ome.tif	2021-03-14T19:04:31	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11994.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12124_FLUO.ome.tif	2021-03-19T17:28:17	Abeta42	12.5X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12124.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12125_FLUO.ome.tif	2021-03-19T17:28:36	Abeta42	12.5X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12125.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12139_FLUO.ome.tif	2021-03-19T17:34:18	Abeta42	12.5X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12139.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12140_FLUO.ome.tif	2021-03-19T17:34:36	Abeta42	12.5X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12140.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12145_FLUO.ome.tif	2021-03-19T17:36:10	Abeta42	12.5X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12145.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12146_FLUO.ome.tif	2021-03-19T17:36:24	Abeta42	12.5X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12146.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12156_FLUO.ome.tif	2021-03-19T17:53:38	Abeta42	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12156.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12157_FLUO.ome.tif	2021-03-19T17:53:57	Abeta42	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12157.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12199_FLUO.ome.tif	2021-03-19T18:05:36	Abeta42	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12199.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12212_FLUO.ome.tif	2021-03-19T18:10:53	Abeta42	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12212.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-Abeta42_run-12213_FLUO.ome.tif	2021-03-19T18:11:13	Abeta42	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12213.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11827_FLUO.ome.tif	2021-03-14T18:13:19	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11827.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11830_FLUO.ome.tif	2021-03-14T18:14:07	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11830.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11831_FLUO.ome.tif	2021-03-14T18:14:18	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11831.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11834_FLUO.ome.tif	2021-03-14T18:15:03	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11834.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11835_FLUO.ome.tif	2021-03-14T18:15:38	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11835.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11840_FLUO.ome.tif	2021-03-14T18:17:33	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11840.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11843_FLUO.ome.tif	2021-03-14T18:18:20	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11843.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11844_FLUO.ome.tif	2021-03-14T18:18:38	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11844.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11847_FLUO.ome.tif	2021-03-14T18:19:25	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11847.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11854_FLUO.ome.tif	2021-03-14T18:21:58	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11854.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11857_FLUO.ome.tif	2021-03-14T18:22:47	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11857.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11902_FLUO.ome.tif	2021-03-14T18:35:39	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11902.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11905_FLUO.ome.tif	2021-03-14T18:37:46	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11905.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11940_FLUO.ome.tif	2021-03-14T18:52:33	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11940.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11943_FLUO.ome.tif	2021-03-14T18:53:24	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11943.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11944_FLUO.ome.tif	2021-03-14T18:53:41	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11944.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11947_FLUO.ome.tif	2021-03-14T18:54:27	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11947.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11948_FLUO.ome.tif	2021-03-14T18:54:59	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11948.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11951_FLUO.ome.tif	2021-03-14T18:55:46	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11951.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11952_FLUO.ome.tif	2021-03-14T18:55:59	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11952.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11955_FLUO.ome.tif	2021-03-14T18:56:47	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11955.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-11993_FLUO.ome.tif	2021-03-14T19:04:26	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11993.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12123_FLUO.ome.tif	2021-03-19T17:28:10	DAPI	12.5X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12123.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12126_FLUO.ome.tif	2021-03-19T17:28:53	DAPI	12.5X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12126.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12138_FLUO.ome.tif	2021-03-19T17:34:12	DAPI	12.5X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12138.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12141_FLUO.ome.tif	2021-03-19T17:34:53	DAPI	12.5X	high	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12141.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12144_FLUO.ome.tif	2021-03-19T17:36:05	DAPI	12.5X	low	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12144.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12155_FLUO.ome.tif	2021-03-19T17:53:30	DAPI	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12155.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12158_FLUO.ome.tif	2021-03-19T17:54:13	DAPI	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12158.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12197_FLUO.ome.tif	2021-03-19T18:05:09	DAPI	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12197.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12200_FLUO.ome.tif	2021-03-19T18:06:03	DAPI	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12200.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12211_FLUO.ome.tif	2021-03-19T18:10:46	DAPI	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12211.czi
+micr/sub-0329_sample-brain_acq-12p5x_stain-DAPI_run-12214_FLUO.ome.tif	2021-03-19T18:11:29	DAPI	12.5X	high	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12214.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11853_FLUO.ome.tif	2021-03-14T18:20:53	Abeta42	200X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11853.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11862_FLUO.ome.tif	2021-03-14T18:26:36	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11862.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11863_FLUO.ome.tif	2021-03-14T18:26:41	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11863.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11864_FLUO.ome.tif	2021-03-14T18:26:53	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11864.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11865_FLUO.ome.tif	2021-03-14T18:27:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11865.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11866_FLUO.ome.tif	2021-03-14T18:27:08	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11866.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11867_FLUO.ome.tif	2021-03-14T18:27:14	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11867.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11868_FLUO.ome.tif	2021-03-14T18:27:31	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11868.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11869_FLUO.ome.tif	2021-03-14T18:27:34	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11869.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11870_FLUO.ome.tif	2021-03-14T18:27:40	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11870.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11871_FLUO.ome.tif	2021-03-14T18:27:59	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11871.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11872_FLUO.ome.tif	2021-03-14T18:28:04	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11872.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11873_FLUO.ome.tif	2021-03-14T18:28:11	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11873.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11874_FLUO.ome.tif	2021-03-14T18:28:24	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11874.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11875_FLUO.ome.tif	2021-03-14T18:28:30	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11875.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11876_FLUO.ome.tif	2021-03-14T18:28:36	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11876.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11877_FLUO.ome.tif	2021-03-14T18:28:48	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11877.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11878_FLUO.ome.tif	2021-03-14T18:28:51	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11878.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11879_FLUO.ome.tif	2021-03-14T18:29:53	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11879.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11880_FLUO.ome.tif	2021-03-14T18:30:12	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11880.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11881_FLUO.ome.tif	2021-03-14T18:30:18	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11881.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11882_FLUO.ome.tif	2021-03-14T18:30:39	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11882.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11883_FLUO.ome.tif	2021-03-14T18:30:45	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11883.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11884_FLUO.ome.tif	2021-03-14T18:31:18	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11884.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11887_FLUO.ome.tif	2021-03-14T18:32:19	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11887.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11888_FLUO.ome.tif	2021-03-14T18:32:23	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11888.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11889_FLUO.ome.tif	2021-03-14T18:32:35	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11889.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11890_FLUO.ome.tif	2021-03-14T18:32:39	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11890.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11891_FLUO.ome.tif	2021-03-14T18:32:47	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11891.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11892_FLUO.ome.tif	2021-03-14T18:33:12	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11892.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11893_FLUO.ome.tif	2021-03-14T18:33:17	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11893.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11894_FLUO.ome.tif	2021-03-14T18:33:33	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11894.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11895_FLUO.ome.tif	2021-03-14T18:33:37	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11895.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11896_FLUO.ome.tif	2021-03-14T18:33:43	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11896.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11897_FLUO.ome.tif	2021-03-14T18:33:56	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11897.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11898_FLUO.ome.tif	2021-03-14T18:34:08	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11898.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11899_FLUO.ome.tif	2021-03-14T18:34:23	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11899.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11900_FLUO.ome.tif	2021-03-14T18:34:29	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11900.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11901_FLUO.ome.tif	2021-03-14T18:34:34	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11901.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11910_FLUO.ome.tif	2021-03-14T18:40:47	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11910.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11911_FLUO.ome.tif	2021-03-14T18:40:51	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11911.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11912_FLUO.ome.tif	2021-03-14T18:41:00	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11912.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11913_FLUO.ome.tif	2021-03-14T18:41:56	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11913.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11914_FLUO.ome.tif	2021-03-14T18:42:14	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11914.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11915_FLUO.ome.tif	2021-03-14T18:42:33	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11915.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11916_FLUO.ome.tif	2021-03-14T18:42:52	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11916.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11917_FLUO.ome.tif	2021-03-14T18:43:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11917.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11918_FLUO.ome.tif	2021-03-14T18:43:20	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11918.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11919_FLUO.ome.tif	2021-03-14T18:43:34	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11919.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11920_FLUO.ome.tif	2021-03-14T18:43:51	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11920.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11921_FLUO.ome.tif	2021-03-14T18:44:14	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11921.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11922_FLUO.ome.tif	2021-03-14T18:44:50	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11922.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11941_FLUO.ome.tif	2021-03-14T18:52:39	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11941.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11949_FLUO.ome.tif	2021-03-14T18:55:08	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11949.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11958_FLUO.ome.tif	2021-03-14T18:57:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11958.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11959_FLUO.ome.tif	2021-03-14T18:58:20	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11959.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11960_FLUO.ome.tif	2021-03-14T18:58:24	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11960.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11961_FLUO.ome.tif	2021-03-14T18:58:27	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11961.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11962_FLUO.ome.tif	2021-03-14T18:58:31	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11962.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11963_FLUO.ome.tif	2021-03-14T18:58:58	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11963.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11964_FLUO.ome.tif	2021-03-14T18:59:02	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11964.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11965_FLUO.ome.tif	2021-03-14T18:59:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11965.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11966_FLUO.ome.tif	2021-03-14T18:59:09	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11966.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11967_FLUO.ome.tif	2021-03-14T18:59:13	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11967.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11968_FLUO.ome.tif	2021-03-14T18:59:20	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11968.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11969_FLUO.ome.tif	2021-03-14T18:59:40	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11969.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11970_FLUO.ome.tif	2021-03-14T18:59:44	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11970.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11971_FLUO.ome.tif	2021-03-14T18:59:47	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11971.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11972_FLUO.ome.tif	2021-03-14T18:59:51	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11972.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11973_FLUO.ome.tif	2021-03-14T18:59:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11973.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11974_FLUO.ome.tif	2021-03-14T19:00:00	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11974.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11975_FLUO.ome.tif	2021-03-14T19:00:17	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11975.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11976_FLUO.ome.tif	2021-03-14T19:00:20	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11976.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11977_FLUO.ome.tif	2021-03-14T19:00:23	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11977.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11978_FLUO.ome.tif	2021-03-14T19:00:27	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11978.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11979_FLUO.ome.tif	2021-03-14T19:00:33	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11979.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11982_FLUO.ome.tif	2021-03-14T19:01:57	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11982.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11983_FLUO.ome.tif	2021-03-14T19:02:06	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11983.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11984_FLUO.ome.tif	2021-03-14T19:02:18	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11984.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11985_FLUO.ome.tif	2021-03-14T19:02:22	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11985.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11986_FLUO.ome.tif	2021-03-14T19:02:27	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11986.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11987_FLUO.ome.tif	2021-03-14T19:02:46	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11987.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11988_FLUO.ome.tif	2021-03-14T19:02:50	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11988.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11989_FLUO.ome.tif	2021-03-14T19:02:55	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11989.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11990_FLUO.ome.tif	2021-03-14T19:03:06	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11990.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11991_FLUO.ome.tif	2021-03-14T19:03:09	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11991.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-11992_FLUO.ome.tif	2021-03-14T19:03:14	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11992.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12001_FLUO.ome.tif	2021-03-14T19:06:17	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12001.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12002_FLUO.ome.tif	2021-03-14T19:06:21	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12002.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12003_FLUO.ome.tif	2021-03-14T19:06:30	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12003.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12004_FLUO.ome.tif	2021-03-14T19:06:35	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12004.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12005_FLUO.ome.tif	2021-03-14T19:06:43	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12005.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12006_FLUO.ome.tif	2021-03-14T19:07:00	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12006.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12007_FLUO.ome.tif	2021-03-14T19:07:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12007.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12008_FLUO.ome.tif	2021-03-14T19:07:10	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12008.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12009_FLUO.ome.tif	2021-03-14T19:07:15	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12009.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12010_FLUO.ome.tif	2021-03-14T19:07:21	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12010.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12011_FLUO.ome.tif	2021-03-14T19:07:41	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12011.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12012_FLUO.ome.tif	2021-03-14T19:07:45	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12012.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12013_FLUO.ome.tif	2021-03-14T19:07:48	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12013.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12014_FLUO.ome.tif	2021-03-14T19:07:52	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12014.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12015_FLUO.ome.tif	2021-03-14T19:07:56	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12015.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12016_FLUO.ome.tif	2021-03-14T19:08:02	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12016.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12017_FLUO.ome.tif	2021-03-14T19:08:10	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12017.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12018_FLUO.ome.tif	2021-03-14T19:08:24	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12018.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12019_FLUO.ome.tif	2021-03-14T19:08:28	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12019.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12020_FLUO.ome.tif	2021-03-14T19:08:32	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12020.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12021_FLUO.ome.tif	2021-03-14T19:08:36	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12021.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12022_FLUO.ome.tif	2021-03-14T19:08:42	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12022.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12023_FLUO.ome.tif	2021-03-14T19:08:47	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12023.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12024_FLUO.ome.tif	2021-03-14T19:08:57	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12024.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12025_FLUO.ome.tif	2021-03-14T19:09:13	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12025.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12026_FLUO.ome.tif	2021-03-14T19:09:29	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12026.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12027_FLUO.ome.tif	2021-03-14T19:09:46	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12027.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12028_FLUO.ome.tif	2021-03-14T19:09:57	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12028.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12030_FLUO.ome.tif	2021-03-14T19:10:30	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12030.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12031_FLUO.ome.tif	2021-03-14T19:11:03	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12031.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12032_FLUO.ome.tif	2021-03-14T19:11:36	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12032.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12033_FLUO.ome.tif	2021-03-14T19:11:40	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12033.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12034_FLUO.ome.tif	2021-03-14T19:12:04	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12034.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12035_FLUO.ome.tif	2021-03-14T19:12:13	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12035.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12036_FLUO.ome.tif	2021-03-14T19:13:21	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12036.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12037_FLUO.ome.tif	2021-03-14T19:13:29	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12037.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12038_FLUO.ome.tif	2021-03-14T19:13:44	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-12038.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12134_FLUO.ome.tif	2021-03-19T17:31:09	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12134.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12135_FLUO.ome.tif	2021-03-19T17:31:28	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12135.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12136_FLUO.ome.tif	2021-03-19T17:31:35	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12136.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12137_FLUO.ome.tif	2021-03-19T17:31:40	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 1	Male P90 Positive 0329/0329 extra 1/Snap-12137.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12159_FLUO.ome.tif	2021-03-19T17:54:41	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12159.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12168_FLUO.ome.tif	2021-03-19T17:57:27	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12168.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12169_FLUO.ome.tif	2021-03-19T17:57:32	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12169.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12170_FLUO.ome.tif	2021-03-19T17:57:38	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12170.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12171_FLUO.ome.tif	2021-03-19T17:57:44	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12171.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12172_FLUO.ome.tif	2021-03-19T17:57:51	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12172.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12173_FLUO.ome.tif	2021-03-19T17:58:03	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12173.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12174_FLUO.ome.tif	2021-03-19T17:58:26	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12174.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12175_FLUO.ome.tif	2021-03-19T17:58:33	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12175.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12176_FLUO.ome.tif	2021-03-19T17:58:38	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12176.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12177_FLUO.ome.tif	2021-03-19T17:58:44	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12177.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12178_FLUO.ome.tif	2021-03-19T17:58:50	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12178.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12179_FLUO.ome.tif	2021-03-19T17:59:01	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12179.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12180_FLUO.ome.tif	2021-03-19T17:59:19	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12180.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12181_FLUO.ome.tif	2021-03-19T17:59:24	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12181.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12182_FLUO.ome.tif	2021-03-19T17:59:29	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12182.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12183_FLUO.ome.tif	2021-03-19T17:59:33	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12183.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12184_FLUO.ome.tif	2021-03-19T17:59:38	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12184.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12185_FLUO.ome.tif	2021-03-19T17:59:45	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12185.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12186_FLUO.ome.tif	2021-03-19T17:59:53	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12186.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12187_FLUO.ome.tif	2021-03-19T18:00:10	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12187.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12188_FLUO.ome.tif	2021-03-19T18:00:15	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12188.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12189_FLUO.ome.tif	2021-03-19T18:00:20	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12189.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12190_FLUO.ome.tif	2021-03-19T18:00:28	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12190.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12191_FLUO.ome.tif	2021-03-19T18:00:33	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12191.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12192_FLUO.ome.tif	2021-03-19T18:00:41	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12192.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12193_FLUO.ome.tif	2021-03-19T18:01:03	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12193.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12194_FLUO.ome.tif	2021-03-19T18:01:19	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12194.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12195_FLUO.ome.tif	2021-03-19T18:01:37	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12195.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12196_FLUO.ome.tif	2021-03-19T18:01:49	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12196.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12198_FLUO.ome.tif	2021-03-19T18:05:16	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12198.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12203_FLUO.ome.tif	2021-03-19T18:07:13	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12203.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12204_FLUO.ome.tif	2021-03-19T18:07:27	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12204.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12205_FLUO.ome.tif	2021-03-19T18:07:42	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12205.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12208_FLUO.ome.tif	2021-03-19T18:08:57	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12208.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12209_FLUO.ome.tif	2021-03-19T18:09:21	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12209.czi
+micr/sub-0329_sample-brain_acq-200x_stain-Abeta42_run-12210_FLUO.ome.tif	2021-03-19T18:09:38	Abeta42	200X	rule	czi	n/a	n/a	0329 extra 2	Male P90 Positive 0329/0329 extra 2/Snap-12210.czi
+micr/sub-0329_sample-brain_acq-200x_stain-DAPI_run-11852_FLUO.ome.tif	2021-03-14T18:20:48	DAPI	200X	high	czi	n/a	n/a	n/a	Male P90 Positive 0329/Snap-11852.czi

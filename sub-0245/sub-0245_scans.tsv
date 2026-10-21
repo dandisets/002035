@@ -1,0 +1,302 @@
+filename	acq_time	stain	magnification	magnification_confidence	source_format	region	region_abbr	original_subfolder	original_file
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7029_FLUO.ome.tif	2020-11-19T18:25:42	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7029.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7037_FLUO.ome.tif	2020-11-19T18:27:40	Abeta42	100X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7037.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7040_FLUO.ome.tif	2020-11-19T18:28:03	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7040.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7060_FLUO.ome.tif	2020-11-19T18:33:04	Abeta42	100X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7060.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7071_FLUO.ome.tif	2020-11-19T18:35:40	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7071.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7074_FLUO.ome.tif	2020-11-19T18:36:08	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7074.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7075_FLUO.ome.tif	2020-11-19T18:36:26	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7075.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7077_FLUO.ome.tif	2020-11-19T18:36:54	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7077.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7082_FLUO.ome.tif	2020-11-19T18:39:05	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7082.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7085_FLUO.ome.tif	2020-11-19T18:39:35	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7085.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7086_FLUO.ome.tif	2020-11-19T18:39:50	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7086.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7089_FLUO.ome.tif	2020-11-19T18:40:21	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7089.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7090_FLUO.ome.tif	2020-11-19T18:40:34	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7090.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7135_FLUO.ome.tif	2020-11-19T18:55:02	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7135.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7136_FLUO.ome.tif	2020-11-19T18:55:11	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7136.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7144_FLUO.ome.tif	n/a	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7144.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7148_FLUO.ome.tif	n/a	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7148.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7149_FLUO.ome.tif	2020-11-19T18:58:03	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7149.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7162_FLUO.ome.tif	2020-11-19T19:02:58	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7162.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7169_FLUO.ome.tif	2020-11-19T19:04:29	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7169.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7170_FLUO.ome.tif	2020-11-19T19:05:01	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7170.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7234_FLUO.ome.tif	2020-11-19T19:38:29	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7234.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7274_FLUO.ome.tif	2020-11-19T19:53:56	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7274.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7276_FLUO.ome.tif	2020-11-19T19:54:22	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7276.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-Abeta42_run-7278_FLUO.ome.tif	2020-11-19T19:54:49	Abeta42	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7278.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7030_FLUO.ome.tif	2020-11-19T18:25:51	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7030.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7038_FLUO.ome.tif	2020-11-19T18:27:51	DAPI	100X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7038.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7039_FLUO.ome.tif	2020-11-19T18:27:59	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7039.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7059_FLUO.ome.tif	2020-11-19T18:32:55	DAPI	100X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7059.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7072_FLUO.ome.tif	2020-11-19T18:35:53	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7072.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7073_FLUO.ome.tif	2020-11-19T18:36:04	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7073.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7076_FLUO.ome.tif	2020-11-19T18:36:35	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7076.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7078_FLUO.ome.tif	2020-11-19T18:37:05	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7078.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7083_FLUO.ome.tif	2020-11-19T18:39:19	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7083.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7084_FLUO.ome.tif	2020-11-19T18:39:28	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7084.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7087_FLUO.ome.tif	2020-11-19T18:40:03	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7087.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7088_FLUO.ome.tif	2020-11-19T18:40:09	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7088.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7091_FLUO.ome.tif	2020-11-19T18:40:44	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7091.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7101_FLUO.ome.tif	2020-11-19T18:44:08	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7101.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7134_FLUO.ome.tif	2020-11-19T18:54:54	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7134.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7137_FLUO.ome.tif	2020-11-19T18:55:22	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7137.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7146_FLUO.ome.tif	2020-11-19T18:57:19	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7146.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7147_FLUO.ome.tif	2020-11-19T18:57:31	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7147.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7150_FLUO.ome.tif	2020-11-19T18:58:16	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7150.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7161_FLUO.ome.tif	n/a	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7161.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7164_FLUO.ome.tif	2020-11-19T19:03:17	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7164.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7168_FLUO.ome.tif	2020-11-19T19:04:13	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7168.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7172_FLUO.ome.tif	2020-11-19T19:05:24	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7172.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7196_FLUO.ome.tif	2020-11-19T19:18:41	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7196.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7233_FLUO.ome.tif	2020-11-19T19:38:24	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7233.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7261_FLUO.ome.tif	2020-11-19T19:48:39	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7261.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7263_FLUO.ome.tif	2020-11-19T19:49:12	DAPI	100X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7263.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7266_FLUO.ome.tif	2020-11-19T19:49:41	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7266.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7275_FLUO.ome.tif	2020-11-19T19:54:06	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7275.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7277_FLUO.ome.tif	n/a	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7277.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-DAPI_run-7279_FLUO.ome.tif	n/a	DAPI	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7279.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-autofluorescence_run-7145_FLUO.ome.tif	2020-11-19T18:57:08	autofluorescence	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7145.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-autofluorescence_run-7163_FLUO.ome.tif	2020-11-19T19:03:06	autofluorescence	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7163.jpg
+micr/sub-0245_sample-brain_acq-100x_stain-autofluorescence_run-7171_FLUO.ome.tif	2020-11-19T19:05:09	autofluorescence	100X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7171.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7016_FLUO.ome.tif	2020-11-19T18:21:05	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7016.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7017_FLUO.ome.tif	2020-11-19T18:21:25	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7017.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7020_FLUO.ome.tif	2020-11-19T18:21:56	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7020.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7021_FLUO.ome.tif	2020-11-19T18:22:15	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7021.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7024_FLUO.ome.tif	2020-11-19T18:23:07	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7024.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7025_FLUO.ome.tif	2020-11-19T18:23:17	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7025.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7028_FLUO.ome.tif	2020-11-19T18:25:18	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7028.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7033_FLUO.ome.tif	2020-11-19T18:26:15	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7033.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7036_FLUO.ome.tif	2020-11-19T18:27:23	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7036.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7041_FLUO.ome.tif	2020-11-19T18:28:19	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7041.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7044_FLUO.ome.tif	2020-11-19T18:28:44	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7044.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7048_FLUO.ome.tif	2020-11-19T18:29:47	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7048.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7049_FLUO.ome.tif	2020-11-19T18:30:05	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7049.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7052_FLUO.ome.tif	2020-11-19T18:30:46	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7052.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7053_FLUO.ome.tif	2020-11-19T18:31:06	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7053.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7056_FLUO.ome.tif	2020-11-19T18:32:19	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7056.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7057_FLUO.ome.tif	2020-11-19T18:32:33	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7057.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7062_FLUO.ome.tif	2020-11-19T18:33:38	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7062.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7063_FLUO.ome.tif	2020-11-19T18:33:52	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7063.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7066_FLUO.ome.tif	2020-11-19T18:34:30	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7066.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7067_FLUO.ome.tif	2020-11-19T18:34:42	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7067.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7125_FLUO.ome.tif	2020-11-19T18:51:00	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7125.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7126_FLUO.ome.tif	2020-11-19T18:51:19	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7126.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7129_FLUO.ome.tif	2020-11-19T18:51:58	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7129.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7130_FLUO.ome.tif	2020-11-19T18:52:19	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7130.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7138_FLUO.ome.tif	2020-11-19T18:55:45	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7138.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7139_FLUO.ome.tif	2020-11-19T18:55:50	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7139.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7143_FLUO.ome.tif	2020-11-19T18:56:22	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7143.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7165_FLUO.ome.tif	2020-11-19T19:03:41	Abeta42	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7165.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7174_FLUO.ome.tif	2020-11-19T19:06:17	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7174.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7175_FLUO.ome.tif	2020-11-19T19:06:37	Abeta42	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7175.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7178_FLUO.ome.tif	2020-11-19T19:07:14	Abeta42	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7178.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7179_FLUO.ome.tif	2020-11-19T19:07:33	Abeta42	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7179.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7182_FLUO.ome.tif	2020-11-19T19:08:04	Abeta42	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7182.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7183_FLUO.ome.tif	2020-11-19T19:08:23	Abeta42	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7183.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7260_FLUO.ome.tif	2020-11-19T19:47:57	Abeta42	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7260.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-Abeta42_run-7272_FLUO.ome.tif	2020-11-19T19:53:22	Abeta42	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7272.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7015_FLUO.ome.tif	2020-11-19T18:20:53	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7015.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7018_FLUO.ome.tif	2020-11-19T18:21:43	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7018.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7019_FLUO.ome.tif	2020-11-19T18:21:51	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7019.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7022_FLUO.ome.tif	2020-11-19T18:22:34	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7022.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7023_FLUO.ome.tif	2020-11-19T18:23:02	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7023.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7026_FLUO.ome.tif	2020-11-19T18:23:34	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7026.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7027_FLUO.ome.tif	2020-11-19T18:25:14	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7027.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7034_FLUO.ome.tif	2020-11-19T18:26:26	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7034.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7035_FLUO.ome.tif	2020-11-19T18:27:15	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7035.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7042_FLUO.ome.tif	2020-11-19T18:28:32	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7042.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7043_FLUO.ome.tif	2020-11-19T18:28:39	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7043.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7046_FLUO.ome.tif	2020-11-19T18:29:16	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7046.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7047_FLUO.ome.tif	2020-11-19T18:29:42	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7047.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7050_FLUO.ome.tif	2020-11-19T18:30:22	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7050.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7051_FLUO.ome.tif	2020-11-19T18:30:32	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7051.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7054_FLUO.ome.tif	2020-11-19T18:31:23	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7054.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7055_FLUO.ome.tif	2020-11-19T18:32:08	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7055.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7058_FLUO.ome.tif	2020-11-19T18:32:46	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7058.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7061_FLUO.ome.tif	2020-11-19T18:33:32	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7061.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7064_FLUO.ome.tif	2020-11-19T18:34:03	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7064.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7065_FLUO.ome.tif	2020-11-19T18:34:20	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7065.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7068_FLUO.ome.tif	2020-11-19T18:34:53	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7068.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7124_FLUO.ome.tif	2020-11-19T18:50:55	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7124.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7127_FLUO.ome.tif	2020-11-19T18:51:35	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7127.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7128_FLUO.ome.tif	2020-11-19T18:51:51	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7128.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7131_FLUO.ome.tif	2020-11-19T18:52:37	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7131.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7133_FLUO.ome.tif	2020-11-19T18:54:43	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7133.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7141_FLUO.ome.tif	2020-11-19T18:56:10	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7141.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7142_FLUO.ome.tif	2020-11-19T18:56:17	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7142.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7167_FLUO.ome.tif	n/a	DAPI	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7167.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7173_FLUO.ome.tif	2020-11-19T19:06:11	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7173.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7176_FLUO.ome.tif	2020-11-19T19:06:54	DAPI	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7176.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7177_FLUO.ome.tif	2020-11-19T19:07:08	DAPI	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7177.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7180_FLUO.ome.tif	2020-11-19T19:07:50	DAPI	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7180.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7181_FLUO.ome.tif	2020-11-19T19:07:59	DAPI	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7181.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7184_FLUO.ome.tif	2020-11-19T19:08:40	DAPI	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7184.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7185_FLUO.ome.tif	2020-11-19T19:14:06	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7185.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7259_FLUO.ome.tif	n/a	DAPI	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7259.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-DAPI_run-7273_FLUO.ome.tif	2020-11-19T19:53:37	DAPI	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7273.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-autofluorescence_run-7140_FLUO.ome.tif	2020-11-19T18:55:55	autofluorescence	12.5X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7140.jpg
+micr/sub-0245_sample-brain_acq-12p5x_stain-autofluorescence_run-7166_FLUO.ome.tif	2020-11-19T19:03:48	autofluorescence	12.5X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7166.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10181_FLUO.ome.tif	2021-01-28T17:50:35	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10181.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10182_FLUO.ome.tif	2021-01-28T17:50:50	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10182.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10183_FLUO.ome.tif	2021-01-28T17:51:01	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10183.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10186_FLUO.ome.tif	2021-01-28T17:51:48	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10186.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10187_FLUO.ome.tif	2021-01-28T17:51:56	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10187.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10188_FLUO.ome.tif	2021-01-28T17:52:02	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10188.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10189_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10189.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10190_FLUO.ome.tif	2021-01-28T17:52:29	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10190.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10191_FLUO.ome.tif	2021-01-28T17:52:33	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10191.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10192_FLUO.ome.tif	2021-01-28T17:52:54	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10192.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-10193_FLUO.ome.tif	2021-01-28T17:53:03	Abeta42	200X	rule	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10193.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7032_FLUO.ome.tif	2020-11-19T18:26:06	Abeta42	200X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7032.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7045_FLUO.ome.tif	2020-11-19T18:29:03	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7045.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7070_FLUO.ome.tif	2020-11-19T18:35:10	Abeta42	200X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7070.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7079_FLUO.ome.tif	2020-11-19T18:37:48	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7079.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7080_FLUO.ome.tif	2020-11-19T18:37:57	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7080.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7092_FLUO.ome.tif	2020-11-19T18:41:14	Abeta42	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7092.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7095_FLUO.ome.tif	2020-11-19T18:41:43	Abeta42	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7095.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7096_FLUO.ome.tif	2020-11-19T18:41:58	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7096.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7098_FLUO.ome.tif	2020-11-19T18:42:42	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7098.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7100_FLUO.ome.tif	2020-11-19T18:43:55	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7100.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7102_FLUO.ome.tif	2020-11-19T18:44:33	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7102.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7103_FLUO.ome.tif	2020-11-19T18:44:41	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7103.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7105_FLUO.ome.tif	2020-11-19T18:45:12	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7105.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7107_FLUO.ome.tif	2020-11-19T18:45:47	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7107.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7109_FLUO.ome.tif	2020-11-19T18:46:16	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7109.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7111_FLUO.ome.tif	2020-11-19T18:46:52	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7111.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7112_FLUO.ome.tif	2020-11-19T18:47:59	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7112.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7114_FLUO.ome.tif	2020-11-19T18:48:18	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7114.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7116_FLUO.ome.tif	2020-11-19T18:48:42	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7116.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7119_FLUO.ome.tif	2020-11-19T18:49:22	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7119.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7122_FLUO.ome.tif	2020-11-19T18:50:01	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7122.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7132_FLUO.ome.tif	2020-11-19T18:54:34	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7132.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7151_FLUO.ome.tif	2020-11-19T18:58:46	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7151.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7154_FLUO.ome.tif	2020-11-19T18:59:47	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7154.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7156_FLUO.ome.tif	2020-11-19T19:00:34	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7156.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7157_FLUO.ome.tif	2020-11-19T19:00:43	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7157.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7159_FLUO.ome.tif	2020-11-19T19:02:18	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7159.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7186_FLUO.ome.tif	2020-11-19T19:14:31	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7186.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7187_FLUO.ome.tif	2020-11-19T19:14:48	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7187.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7188_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7188.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7191_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7191.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7194_FLUO.ome.tif	2020-11-19T19:16:46	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7194.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7197_FLUO.ome.tif	2020-11-19T19:19:07	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7197.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7198_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7198.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7199_FLUO.ome.tif	2020-11-19T19:22:53	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7199.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7200_FLUO.ome.tif	2020-11-19T19:23:12	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7200.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7201_FLUO.ome.tif	2020-11-19T19:23:30	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7201.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7202_FLUO.ome.tif	2020-11-19T19:24:01	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7202.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7203_FLUO.ome.tif	2020-11-19T19:24:19	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7203.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7204_FLUO.ome.tif	2020-11-19T19:24:35	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7204.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7205_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7205.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7206_FLUO.ome.tif	2020-11-19T19:26:00	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7206.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7207_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7207.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7209_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7209.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7210_FLUO.ome.tif	2020-11-19T19:30:43	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7210.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7211_FLUO.ome.tif	2020-11-19T19:31:00	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7211.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7212_FLUO.ome.tif	2020-11-19T19:31:15	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7212.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7213_FLUO.ome.tif	2020-11-19T19:31:49	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7213.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7214_FLUO.ome.tif	2020-11-19T19:32:10	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7214.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7215_FLUO.ome.tif	2020-11-19T19:32:27	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7215.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7216_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7216.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7217_FLUO.ome.tif	2020-11-19T19:33:27	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7217.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7218_FLUO.ome.tif	2020-11-19T19:34:00	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7218.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7219_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7219.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7220_FLUO.ome.tif	2020-11-19T19:34:55	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7220.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7221_FLUO.ome.tif	2020-11-19T19:35:12	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7221.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7222_FLUO.ome.tif	2020-11-19T19:35:26	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7222.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7223_FLUO.ome.tif	2020-11-19T19:35:46	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7223.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7224_FLUO.ome.tif	2020-11-19T19:35:59	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7224.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7225_FLUO.ome.tif	2020-11-19T19:36:14	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7225.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7226_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7226.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7227_FLUO.ome.tif	2020-11-19T19:36:48	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7227.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7228_FLUO.ome.tif	2020-11-19T19:37:00	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7228.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7229_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7229.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7230_FLUO.ome.tif	2020-11-19T19:37:22	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7230.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7231_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7231.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7232_FLUO.ome.tif	2020-11-19T19:37:49	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7232.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7235_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7235.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7236_FLUO.ome.tif	2020-11-19T19:39:00	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7236.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7237_FLUO.ome.tif	2020-11-19T19:39:22	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7237.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7238_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7238.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7239_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7239.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7240_FLUO.ome.tif	2020-11-19T19:40:12	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7240.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7241_FLUO.ome.tif	2020-11-19T19:40:32	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7241.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7242_FLUO.ome.tif	2020-11-19T19:40:46	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7242.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7243_FLUO.ome.tif	2020-11-19T19:41:14	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7243.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7244_FLUO.ome.tif	2020-11-19T19:41:34	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7244.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7245_FLUO.ome.tif	2020-11-19T19:41:46	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7245.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7246_FLUO.ome.tif	2020-11-19T19:42:13	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7246.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7247_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7247.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7248_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7248.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7249_FLUO.ome.tif	2020-11-19T19:44:44	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7249.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7250_FLUO.ome.tif	2020-11-19T19:45:00	Abeta42	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7250.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7253_FLUO.ome.tif	2020-11-19T19:45:42	Abeta42	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7253.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7254_FLUO.ome.tif	n/a	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7254.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7256_FLUO.ome.tif	2020-11-19T19:46:28	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7256.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7262_FLUO.ome.tif	2020-11-19T19:48:45	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7262.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7264_FLUO.ome.tif	2020-11-19T19:49:18	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7264.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7265_FLUO.ome.tif	2020-11-19T19:49:31	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7265.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7267_FLUO.ome.tif	2020-11-19T19:50:54	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7267.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7268_FLUO.ome.tif	2020-11-19T19:51:10	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7268.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7269_FLUO.ome.tif	2020-11-19T19:51:17	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7269.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7270_FLUO.ome.tif	2020-11-19T19:52:23	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7270.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7271_FLUO.ome.tif	2020-11-19T19:52:45	Abeta42	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7271.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7778_FLUO.ome.tif	2020-12-08T18:25:46	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7778.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7779_FLUO.ome.tif	2020-12-08T18:26:18	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7779.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7781_FLUO.ome.tif	2020-12-08T18:26:41	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7781.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7783_FLUO.ome.tif	2020-12-08T18:27:00	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7783.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7785_FLUO.ome.tif	2020-12-08T18:27:19	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7785.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7787_FLUO.ome.tif	2020-12-08T18:31:04	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7787.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7789_FLUO.ome.tif	2020-12-08T18:31:20	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7789.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7791_FLUO.ome.tif	2020-12-08T18:31:56	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7791.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7792_FLUO.ome.tif	2020-12-08T18:32:16	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7792.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7794_FLUO.ome.tif	2020-12-08T18:32:48	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7794.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7796_FLUO.ome.tif	2020-12-08T18:33:23	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7796.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-Abeta42_run-7798_FLUO.ome.tif	2020-12-08T18:33:45	Abeta42	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7798.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-10184_FLUO.ome.tif	2021-01-28T17:51:12	DAPI	200X	high	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10184.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-10185_FLUO.ome.tif	2021-01-28T17:51:36	DAPI	200X	high	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10185.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-10194_FLUO.ome.tif	2021-01-28T17:53:14	DAPI	200X	high	jpg	subiculum	S	0245 subiculum	Female P60 Positive 0245/0245 subiculum/Snap-10194.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7031_FLUO.ome.tif	2020-11-19T18:26:02	DAPI	200X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7031.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7069_FLUO.ome.tif	2020-11-19T18:35:01	DAPI	200X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7069.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7081_FLUO.ome.tif	2020-11-19T18:38:09	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7081.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7093_FLUO.ome.tif	2020-11-19T18:41:26	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7093.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7094_FLUO.ome.tif	2020-11-19T18:41:34	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7094.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7097_FLUO.ome.tif	2020-11-19T18:42:11	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7097.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7099_FLUO.ome.tif	2020-11-19T18:42:51	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7099.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7104_FLUO.ome.tif	2020-11-19T18:44:53	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7104.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7106_FLUO.ome.tif	2020-11-19T18:45:18	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7106.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7108_FLUO.ome.tif	2020-11-19T18:45:56	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7108.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7110_FLUO.ome.tif	2020-11-19T18:46:24	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7110.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7113_FLUO.ome.tif	2020-11-19T18:48:06	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7113.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7115_FLUO.ome.tif	2020-11-19T18:48:25	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7115.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7118_FLUO.ome.tif	2020-11-19T18:49:04	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7118.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7153_FLUO.ome.tif	2020-11-19T18:59:08	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7153.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7155_FLUO.ome.tif	n/a	DAPI	200X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7155.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7158_FLUO.ome.tif	2020-11-19T19:00:54	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7158.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7190_FLUO.ome.tif	2020-11-19T19:15:56	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7190.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7193_FLUO.ome.tif	2020-11-19T19:16:27	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7193.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7208_FLUO.ome.tif	2020-11-19T19:26:23	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7208.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7251_FLUO.ome.tif	2020-11-19T19:45:08	DAPI	200X	low	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7251.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7252_FLUO.ome.tif	2020-11-19T19:45:37	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7252.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7255_FLUO.ome.tif	2020-11-19T19:46:12	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7255.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-DAPI_run-7257_FLUO.ome.tif	2020-11-19T19:46:33	DAPI	200X	high	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7257.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7117_FLUO.ome.tif	2020-11-19T18:48:51	autofluorescence	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7117.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7120_FLUO.ome.tif	2020-11-19T18:49:28	autofluorescence	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7120.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7121_FLUO.ome.tif	2020-11-19T18:49:42	autofluorescence	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7121.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7123_FLUO.ome.tif	2020-11-19T18:50:08	autofluorescence	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7123.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7152_FLUO.ome.tif	2020-11-19T18:58:52	autofluorescence	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7152.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7160_FLUO.ome.tif	2020-11-19T19:02:35	autofluorescence	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7160.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7189_FLUO.ome.tif	2020-11-19T19:15:46	autofluorescence	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7189.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7192_FLUO.ome.tif	2020-11-19T19:16:19	autofluorescence	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7192.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7195_FLUO.ome.tif	n/a	autofluorescence	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7195.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7258_FLUO.ome.tif	n/a	autofluorescence	200X	rule	jpg	n/a	n/a	n/a	Female P60 Positive 0245/Snap-7258.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7780_FLUO.ome.tif	2020-12-08T18:26:27	autofluorescence	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7780.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7782_FLUO.ome.tif	2020-12-08T18:26:46	autofluorescence	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7782.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7784_FLUO.ome.tif	2020-12-08T18:27:06	autofluorescence	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7784.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7786_FLUO.ome.tif	2020-12-08T18:27:25	autofluorescence	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7786.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7788_FLUO.ome.tif	2020-12-08T18:31:09	autofluorescence	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7788.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7790_FLUO.ome.tif	2020-12-08T18:31:26	autofluorescence	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7790.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7793_FLUO.ome.tif	2020-12-08T18:32:21	autofluorescence	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7793.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7795_FLUO.ome.tif	2020-12-08T18:32:52	autofluorescence	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7795.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7797_FLUO.ome.tif	2020-12-08T18:33:28	autofluorescence	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7797.jpg
+micr/sub-0245_sample-brain_acq-200x_stain-autofluorescence_run-7799_FLUO.ome.tif	2020-12-08T18:33:49	autofluorescence	200X	rule	jpg	n/a	n/a	0245 follow-up	Female P60 Positive 0245/0245 follow-up/Snap-7799.jpg

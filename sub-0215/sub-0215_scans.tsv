@@ -1,0 +1,177 @@
+filename	acq_time	stain	magnification	magnification_confidence	source_format	region	region_abbr	original_subfolder	original_file
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-11753_FLUO.ome.tif	2021-03-05T20:33:46	Abeta42	100X	high	czi	superior olivary complex	SOC	0215 SOC s3	Male P60 Positive 0215/0215 SOC s3/Snap-11753.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-11755_FLUO.ome.tif	2021-03-05T20:35:35	Abeta42	100X	high	czi	superior olivary complex	SOC	0215 SOC s3	Male P60 Positive 0215/0215 SOC s3/Snap-11755.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-11757_FLUO.ome.tif	2021-03-05T20:35:56	Abeta42	100X	high	czi	superior olivary complex	SOC	0215 SOC s3	Male P60 Positive 0215/0215 SOC s3/Snap-11757.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-11759_FLUO.ome.tif	2021-03-05T20:36:20	Abeta42	100X	low	czi	superior olivary complex	SOC	0215 SOC s3	Male P60 Positive 0215/0215 SOC s3/Snap-11759.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-11761_FLUO.ome.tif	2021-03-05T20:40:08	Abeta42	100X	low	czi	superior olivary complex	SOC	0215 SOC s3	Male P60 Positive 0215/0215 SOC s3/Snap-11761.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4758_FLUO.ome.tif	2020-10-28T17:09:56	Abeta42	100X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4758.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4760_FLUO.ome.tif	2020-10-28T17:10:32	Abeta42	100X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4760.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4764_FLUO.ome.tif	2020-10-28T17:11:17	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4764.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4770_FLUO.ome.tif	2020-10-28T17:12:39	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4770.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4772_FLUO.ome.tif	2020-10-28T17:13:06	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4772.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4799_FLUO.ome.tif	2020-10-28T17:30:41	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4799.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4806_FLUO.ome.tif	2020-10-28T17:33:43	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4806.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4812_FLUO.ome.tif	2020-10-28T17:35:54	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4812.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4820_FLUO.ome.tif	2020-10-28T17:42:58	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4820.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4822_FLUO.ome.tif	2020-10-28T17:43:33	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4822.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4824_FLUO.ome.tif	2020-10-28T17:44:16	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4824.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4825_FLUO.ome.tif	2020-10-28T17:44:46	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4825.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4841_FLUO.ome.tif	2020-10-28T17:51:18	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4841.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-4843_FLUO.ome.tif	2020-10-28T17:51:41	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4843.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-6579_FLUO.ome.tif	2020-11-18T15:48:49	Abeta42	100X	low	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6579.czi
+micr/sub-0215_sample-brain_acq-100x_stain-Abeta42_run-6595_FLUO.ome.tif	2020-11-18T15:51:43	Abeta42	100X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6595.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-11752_FLUO.ome.tif	2021-03-05T20:33:41	DAPI	100X	high	czi	superior olivary complex	SOC	0215 SOC s3	Male P60 Positive 0215/0215 SOC s3/Snap-11752.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-11754_FLUO.ome.tif	2021-03-05T20:35:30	DAPI	100X	high	czi	superior olivary complex	SOC	0215 SOC s3	Male P60 Positive 0215/0215 SOC s3/Snap-11754.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-11756_FLUO.ome.tif	2021-03-05T20:35:52	DAPI	100X	high	czi	superior olivary complex	SOC	0215 SOC s3	Male P60 Positive 0215/0215 SOC s3/Snap-11756.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-11758_FLUO.ome.tif	2021-03-05T20:36:17	DAPI	100X	low	czi	superior olivary complex	SOC	0215 SOC s3	Male P60 Positive 0215/0215 SOC s3/Snap-11758.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-11760_FLUO.ome.tif	2021-03-05T20:39:57	DAPI	100X	low	czi	superior olivary complex	SOC	0215 SOC s3	Male P60 Positive 0215/0215 SOC s3/Snap-11760.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4757_FLUO.ome.tif	2020-10-28T17:09:50	DAPI	100X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4757.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4759_FLUO.ome.tif	2020-10-28T17:10:24	DAPI	100X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4759.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4763_FLUO.ome.tif	2020-10-28T17:11:09	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4763.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4766_FLUO.ome.tif	2020-10-28T17:11:54	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4766.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4767_FLUO.ome.tif	2020-10-28T17:12:05	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4767.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4769_FLUO.ome.tif	2020-10-28T17:12:33	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4769.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4771_FLUO.ome.tif	2020-10-28T17:12:59	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4771.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4798_FLUO.ome.tif	2020-10-28T17:30:34	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4798.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4803_FLUO.ome.tif	2020-10-28T17:33:14	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4803.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4805_FLUO.ome.tif	2020-10-28T17:33:38	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4805.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4807_FLUO.ome.tif	2020-10-28T17:34:05	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4807.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4811_FLUO.ome.tif	2020-10-28T17:35:36	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4811.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4819_FLUO.ome.tif	2020-10-28T17:42:52	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4819.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4821_FLUO.ome.tif	2020-10-28T17:43:27	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4821.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4823_FLUO.ome.tif	2020-10-28T17:44:09	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4823.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4834_FLUO.ome.tif	2020-10-28T17:49:14	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4834.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4837_FLUO.ome.tif	2020-10-28T17:50:01	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4837.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4840_FLUO.ome.tif	2020-10-28T17:51:11	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4840.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-4842_FLUO.ome.tif	2020-10-28T17:51:34	DAPI	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4842.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-6581_FLUO.ome.tif	2020-11-18T15:49:09	DAPI	100X	low	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6581.czi
+micr/sub-0215_sample-brain_acq-100x_stain-DAPI_run-6594_FLUO.ome.tif	2020-11-18T15:51:37	DAPI	100X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6594.czi
+micr/sub-0215_sample-brain_acq-100x_stain-autofluorescence_run-4800_FLUO.ome.tif	2020-10-28T17:30:54	autofluorescence	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4800.czi
+micr/sub-0215_sample-brain_acq-100x_stain-autofluorescence_run-4813_FLUO.ome.tif	2020-10-28T17:36:17	autofluorescence	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4813.czi
+micr/sub-0215_sample-brain_acq-100x_stain-autofluorescence_run-4814_FLUO.ome.tif	2020-10-28T17:36:31	autofluorescence	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4814.czi
+micr/sub-0215_sample-brain_acq-100x_stain-autofluorescence_run-4826_FLUO.ome.tif	2020-10-28T17:44:57	autofluorescence	100X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4826.czi
+micr/sub-0215_sample-brain_acq-100x_stain-autofluorescence_run-6580_FLUO.ome.tif	2020-11-18T15:48:59	autofluorescence	100X	low	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6580.czi
+micr/sub-0215_sample-brain_acq-100x_stain-autofluorescence_run-6596_FLUO.ome.tif	2020-11-18T15:51:50	autofluorescence	100X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6596.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-Abeta42_run-4762_FLUO.ome.tif	2020-10-28T17:10:53	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4762.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-Abeta42_run-4777_FLUO.ome.tif	2020-10-28T17:16:14	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4777.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-Abeta42_run-4779_FLUO.ome.tif	2020-10-28T17:16:57	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4779.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-Abeta42_run-4789_FLUO.ome.tif	2020-10-28T17:19:54	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4789.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-Abeta42_run-4818_FLUO.ome.tif	2020-10-28T17:42:23	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4818.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-Abeta42_run-4833_FLUO.ome.tif	2020-10-28T17:48:25	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4833.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-Abeta42_run-4839_FLUO.ome.tif	2020-10-28T17:50:34	Abeta42	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4839.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-Abeta42_run-6571_FLUO.ome.tif	2020-11-18T15:45:53	Abeta42	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6571.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-Abeta42_run-6583_FLUO.ome.tif	2020-11-18T15:49:44	Abeta42	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6583.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-Abeta42_run-6591_FLUO.ome.tif	2020-11-18T15:51:11	Abeta42	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6591.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4754_FLUO.ome.tif	2020-10-28T17:08:39	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4754.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4755_FLUO.ome.tif	2020-10-28T17:08:56	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4755.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4756_FLUO.ome.tif	2020-10-28T17:09:12	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4756.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4761_FLUO.ome.tif	2020-10-28T17:10:47	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4761.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4773_FLUO.ome.tif	2020-10-28T17:15:14	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4773.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4774_FLUO.ome.tif	2020-10-28T17:15:31	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4774.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4775_FLUO.ome.tif	2020-10-28T17:15:42	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4775.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4776_FLUO.ome.tif	2020-10-28T17:16:07	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4776.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4778_FLUO.ome.tif	2020-10-28T17:16:50	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4778.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4784_FLUO.ome.tif	2020-10-28T17:18:45	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4784.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4788_FLUO.ome.tif	2020-10-28T17:19:49	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4788.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4795_FLUO.ome.tif	2020-10-28T17:28:55	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4795.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4796_FLUO.ome.tif	2020-10-28T17:29:09	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4796.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4797_FLUO.ome.tif	2020-10-28T17:29:26	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4797.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4815_FLUO.ome.tif	2020-10-28T17:41:28	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4815.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4816_FLUO.ome.tif	2020-10-28T17:41:39	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4816.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4817_FLUO.ome.tif	2020-10-28T17:42:12	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4817.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4831_FLUO.ome.tif	2020-10-28T17:47:45	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4831.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4832_FLUO.ome.tif	2020-10-28T17:48:18	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4832.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-4838_FLUO.ome.tif	2020-10-28T17:50:27	DAPI	12.5X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4838.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-6572_FLUO.ome.tif	2020-11-18T15:46:07	DAPI	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6572.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-6578_FLUO.ome.tif	2020-11-18T15:48:05	DAPI	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6578.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-6582_FLUO.ome.tif	2020-11-18T15:49:26	DAPI	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6582.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-6587_FLUO.ome.tif	2020-11-18T15:50:23	DAPI	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6587.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-6588_FLUO.ome.tif	2020-11-18T15:50:41	DAPI	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6588.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-DAPI_run-6593_FLUO.ome.tif	2020-11-18T15:51:29	DAPI	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6593.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-autofluorescence_run-6584_FLUO.ome.tif	2020-11-18T15:49:48	autofluorescence	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6584.czi
+micr/sub-0215_sample-brain_acq-12p5x_stain-autofluorescence_run-6592_FLUO.ome.tif	2020-11-18T15:51:17	autofluorescence	12.5X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6592.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-10095_FLUO.ome.tif	2021-01-27T00:31:01	Abeta42	200X	rule	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10095.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-10096_FLUO.ome.tif	2021-01-27T00:31:07	Abeta42	200X	rule	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10096.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-10097_FLUO.ome.tif	2021-01-27T00:31:16	Abeta42	200X	rule	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10097.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-10100_FLUO.ome.tif	2021-01-27T00:31:56	Abeta42	200X	rule	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10100.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-10101_FLUO.ome.tif	2021-01-27T00:32:01	Abeta42	200X	rule	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10101.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-10102_FLUO.ome.tif	2021-01-27T00:32:07	Abeta42	200X	rule	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10102.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-10103_FLUO.ome.tif	2021-01-27T00:32:24	Abeta42	200X	rule	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10103.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-10104_FLUO.ome.tif	2021-01-27T00:32:30	Abeta42	200X	rule	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10104.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-10105_FLUO.ome.tif	2021-01-27T00:32:36	Abeta42	200X	rule	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10105.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4765_FLUO.ome.tif	2020-10-28T17:11:39	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4765.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4768_FLUO.ome.tif	2020-10-28T17:12:13	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4768.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4780_FLUO.ome.tif	2020-10-28T17:17:49	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4780.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4781_FLUO.ome.tif	2020-10-28T17:17:54	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4781.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4782_FLUO.ome.tif	2020-10-28T17:18:13	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4782.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4785_FLUO.ome.tif	2020-10-28T17:18:57	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4785.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4787_FLUO.ome.tif	2020-10-28T17:19:20	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4787.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4790_FLUO.ome.tif	2020-10-28T17:20:09	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4790.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4791_FLUO.ome.tif	2020-10-28T17:20:23	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4791.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4792_FLUO.ome.tif	2020-10-28T17:20:43	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4792.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4793_FLUO.ome.tif	2020-10-28T17:21:00	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4793.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4794_FLUO.ome.tif	2020-10-28T17:21:06	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4794.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4801_FLUO.ome.tif	2020-10-28T17:31:27	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4801.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4804_FLUO.ome.tif	2020-10-28T17:33:21	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4804.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4808_FLUO.ome.tif	2020-10-28T17:34:13	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4808.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4827_FLUO.ome.tif	2020-10-28T17:45:22	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4827.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4829_FLUO.ome.tif	2020-10-28T17:46:07	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4829.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4835_FLUO.ome.tif	2020-10-28T17:49:27	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4835.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4836_FLUO.ome.tif	2020-10-28T17:49:47	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4836.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4844_FLUO.ome.tif	2020-10-28T17:52:15	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4844.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4845_FLUO.ome.tif	2020-10-28T17:52:20	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4845.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4846_FLUO.ome.tif	2020-10-28T17:52:28	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4846.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4848_FLUO.ome.tif	2020-10-28T17:53:12	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4848.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4849_FLUO.ome.tif	2020-10-28T17:53:17	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4849.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4850_FLUO.ome.tif	2020-10-28T17:53:22	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4850.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4851_FLUO.ome.tif	2020-10-28T17:53:28	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4851.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4853_FLUO.ome.tif	2020-10-28T17:54:06	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4853.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4854_FLUO.ome.tif	2020-10-28T17:54:12	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4854.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4855_FLUO.ome.tif	2020-10-28T17:54:22	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4855.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4858_FLUO.ome.tif	2020-10-28T17:55:31	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4858.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-4859_FLUO.ome.tif	2020-10-28T17:55:45	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4859.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6550_FLUO.ome.tif	2020-11-18T15:24:02	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6550.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6551_FLUO.ome.tif	2020-11-18T15:24:37	Abeta42	200X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6551.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6553_FLUO.ome.tif	2020-11-18T15:25:09	Abeta42	200X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6553.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6555_FLUO.ome.tif	2020-11-18T15:25:43	Abeta42	200X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6555.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6557_FLUO.ome.tif	2020-11-18T15:28:15	Abeta42	200X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6557.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6559_FLUO.ome.tif	2020-11-18T15:38:35	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6559.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6560_FLUO.ome.tif	2020-11-18T15:38:58	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6560.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6561_FLUO.ome.tif	2020-11-18T15:39:13	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6561.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6562_FLUO.ome.tif	2020-11-18T15:39:23	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6562.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6563_FLUO.ome.tif	2020-11-18T15:39:44	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6563.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6564_FLUO.ome.tif	2020-11-18T15:39:52	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6564.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6565_FLUO.ome.tif	2020-11-18T15:40:04	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6565.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6566_FLUO.ome.tif	2020-11-18T15:40:12	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6566.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6567_FLUO.ome.tif	2020-11-18T15:40:42	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6567.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6568_FLUO.ome.tif	2020-11-18T15:41:17	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6568.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6569_FLUO.ome.tif	2020-11-18T15:41:38	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6569.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6573_FLUO.ome.tif	2020-11-18T15:46:32	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6573.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6574_FLUO.ome.tif	2020-11-18T15:47:11	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6574.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6575_FLUO.ome.tif	2020-11-18T15:47:24	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6575.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6576_FLUO.ome.tif	2020-11-18T15:47:30	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6576.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6577_FLUO.ome.tif	2020-11-18T15:47:34	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6577.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6585_FLUO.ome.tif	2020-11-18T15:50:04	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6585.czi
+micr/sub-0215_sample-brain_acq-200x_stain-Abeta42_run-6589_FLUO.ome.tif	2020-11-18T15:50:47	Abeta42	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6589.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-10098_FLUO.ome.tif	2021-01-27T00:31:28	DAPI	200X	high	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10098.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-10099_FLUO.ome.tif	2021-01-27T00:31:43	DAPI	200X	high	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10099.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-10106_FLUO.ome.tif	2021-01-27T00:32:46	DAPI	200X	high	czi	subiculum	S	0215 sub	Male P60 Positive 0215/0215 sub/Snap-10106.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-4783_FLUO.ome.tif	2020-10-28T17:18:36	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4783.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-4786_FLUO.ome.tif	2020-10-28T17:19:14	DAPI	200X	low	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4786.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-4847_FLUO.ome.tif	2020-10-28T17:52:49	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4847.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-4852_FLUO.ome.tif	2020-10-28T17:53:41	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4852.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-4856_FLUO.ome.tif	2020-10-28T17:54:37	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4856.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-4860_FLUO.ome.tif	2020-10-28T17:55:57	DAPI	200X	high	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4860.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-6552_FLUO.ome.tif	2020-11-18T15:24:45	DAPI	200X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6552.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-6554_FLUO.ome.tif	2020-11-18T15:25:17	DAPI	200X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6554.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-6556_FLUO.ome.tif	2020-11-18T15:25:49	DAPI	200X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6556.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-6558_FLUO.ome.tif	2020-11-18T15:28:28	DAPI	200X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6558.czi
+micr/sub-0215_sample-brain_acq-200x_stain-DAPI_run-6570_FLUO.ome.tif	2020-11-18T15:41:43	DAPI	200X	high	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6570.czi
+micr/sub-0215_sample-brain_acq-200x_stain-autofluorescence_run-4802_FLUO.ome.tif	2020-10-28T17:31:35	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4802.czi
+micr/sub-0215_sample-brain_acq-200x_stain-autofluorescence_run-4809_FLUO.ome.tif	2020-10-28T17:34:27	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4809.czi
+micr/sub-0215_sample-brain_acq-200x_stain-autofluorescence_run-4810_FLUO.ome.tif	2020-10-28T17:34:51	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4810.czi
+micr/sub-0215_sample-brain_acq-200x_stain-autofluorescence_run-4828_FLUO.ome.tif	2020-10-28T17:45:32	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4828.czi
+micr/sub-0215_sample-brain_acq-200x_stain-autofluorescence_run-4830_FLUO.ome.tif	2020-10-28T17:46:18	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4830.czi
+micr/sub-0215_sample-brain_acq-200x_stain-autofluorescence_run-4857_FLUO.ome.tif	2020-10-28T17:55:09	autofluorescence	200X	rule	czi	n/a	n/a	n/a	Male P60 Positive 0215/Snap-4857.czi
+micr/sub-0215_sample-brain_acq-200x_stain-autofluorescence_run-6586_FLUO.ome.tif	2020-11-18T15:50:11	autofluorescence	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6586.czi
+micr/sub-0215_sample-brain_acq-200x_stain-autofluorescence_run-6590_FLUO.ome.tif	2020-11-18T15:50:54	autofluorescence	200X	rule	czi	inferior colliculus; ventral cochlear nucleus	IC;VCN	0215 follow-up IC, VCN	Male P60 Positive 0215/0215 follow-up IC, VCN/Snap-6590.czi

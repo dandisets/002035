@@ -1,0 +1,22 @@
+{
+  "species": {
+    "Description": "Binomial species name"
+  },
+  "strain": {
+    "Description": "Mouse line and background"
+  },
+  "genotype": {
+    "Description": "5XFAD transgene status"
+  },
+  "sex": {
+    "Description": "Sex",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "age": {
+    "Description": "Postnatal age at perfusion",
+    "Units": "days"
+  }
+}

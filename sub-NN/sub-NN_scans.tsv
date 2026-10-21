@@ -1,0 +1,47 @@
+filename	acq_time	stain	magnification	magnification_confidence	source_format	region	region_abbr	original_subfolder	original_file
+micr/sub-NN_sample-brain_acq-100x_stain-Abeta42_run-9817_FLUO.ome.tif	2021-01-21T16:30:45	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9817.czi
+micr/sub-NN_sample-brain_acq-100x_stain-Abeta42_run-9825_FLUO.ome.tif	2021-01-21T16:34:57	Abeta42	100X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9825.czi
+micr/sub-NN_sample-brain_acq-100x_stain-DAPI_run-9805_FLUO.ome.tif	2021-01-21T16:27:36	DAPI	100X	low	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9805.czi
+micr/sub-NN_sample-brain_acq-100x_stain-DAPI_run-9818_FLUO.ome.tif	2021-01-21T16:31:06	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9818.czi
+micr/sub-NN_sample-brain_acq-100x_stain-DAPI_run-9819_FLUO.ome.tif	2021-01-21T16:31:20	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9819.czi
+micr/sub-NN_sample-brain_acq-100x_stain-DAPI_run-9820_FLUO.ome.tif	2021-01-21T16:31:32	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9820.czi
+micr/sub-NN_sample-brain_acq-100x_stain-DAPI_run-9826_FLUO.ome.tif	2021-01-21T16:35:07	DAPI	100X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9826.czi
+micr/sub-NN_sample-brain_acq-12p5x_stain-Abeta42_run-20878_FLUO.ome.tif	2021-11-26T18:20:52	Abeta42	12.5X	high	czi	caudal pontine reticular nucleus	PRNc	NN PRNc	Female P14 Positive NN/NN PRNc/Snap-20878.czi
+micr/sub-NN_sample-brain_acq-12p5x_stain-Abeta42_run-9822_FLUO.ome.tif	2021-01-21T16:32:01	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9822.czi
+micr/sub-NN_sample-brain_acq-12p5x_stain-DAPI_run-20879_FLUO.ome.tif	2021-11-26T18:20:59	DAPI	12.5X	high	czi	caudal pontine reticular nucleus	PRNc	NN PRNc	Female P14 Positive NN/NN PRNc/Snap-20879.czi
+micr/sub-NN_sample-brain_acq-12p5x_stain-DAPI_run-9811_FLUO.ome.tif	2021-01-21T16:29:05	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9811.czi
+micr/sub-NN_sample-brain_acq-12p5x_stain-DAPI_run-9821_FLUO.ome.tif	2021-01-21T16:31:50	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9821.czi
+micr/sub-NN_sample-brain_acq-12p5x_stain-DAPI_run-9823_FLUO.ome.tif	2021-01-21T16:34:23	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9823.czi
+micr/sub-NN_sample-brain_acq-12p5x_stain-DAPI_run-9824_FLUO.ome.tif	2021-01-21T16:34:32	DAPI	12.5X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9824.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-10265_FLUO.ome.tif	2021-01-28T18:43:06	Abeta42	200X	rule	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10265.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-10266_FLUO.ome.tif	2021-01-28T18:43:31	Abeta42	200X	rule	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10266.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-10267_FLUO.ome.tif	2021-01-28T18:43:36	Abeta42	200X	rule	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10267.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-10268_FLUO.ome.tif	2021-01-28T18:43:47	Abeta42	200X	rule	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10268.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-10271_FLUO.ome.tif	2021-01-28T18:44:23	Abeta42	200X	rule	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10271.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-10272_FLUO.ome.tif	2021-01-28T18:44:30	Abeta42	200X	rule	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10272.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-10273_FLUO.ome.tif	2021-01-28T18:44:39	Abeta42	200X	rule	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10273.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-10274_FLUO.ome.tif	2021-01-28T18:44:56	Abeta42	200X	rule	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10274.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-10275_FLUO.ome.tif	2021-01-28T18:45:02	Abeta42	200X	rule	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10275.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-10276_FLUO.ome.tif	2021-01-28T18:45:13	Abeta42	200X	rule	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10276.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-20880_FLUO.ome.tif	2021-11-26T18:21:49	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	NN PRNc	Female P14 Positive NN/NN PRNc/Snap-20880.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9806_FLUO.ome.tif	2021-01-21T16:27:52	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9806.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9807_FLUO.ome.tif	2021-01-21T16:28:18	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9807.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9808_FLUO.ome.tif	2021-01-21T16:28:26	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9808.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9809_FLUO.ome.tif	2021-01-21T16:28:42	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9809.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9810_FLUO.ome.tif	2021-01-21T16:28:51	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9810.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9812_FLUO.ome.tif	2021-01-21T16:29:32	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9812.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9813_FLUO.ome.tif	2021-01-21T16:29:45	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9813.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9814_FLUO.ome.tif	2021-01-21T16:29:55	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9814.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9815_FLUO.ome.tif	2021-01-21T16:30:04	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9815.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9816_FLUO.ome.tif	2021-01-21T16:30:25	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9816.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9827_FLUO.ome.tif	2021-01-21T16:35:31	Abeta42	200X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9827.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9830_FLUO.ome.tif	2021-01-21T16:37:26	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9830.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9831_FLUO.ome.tif	2021-01-21T16:37:40	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9831.czi
+micr/sub-NN_sample-brain_acq-200x_stain-Abeta42_run-9832_FLUO.ome.tif	2021-01-21T16:38:10	Abeta42	200X	rule	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9832.czi
+micr/sub-NN_sample-brain_acq-200x_stain-DAPI_run-10264_FLUO.ome.tif	2021-01-28T18:42:52	DAPI	200X	high	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10264.czi
+micr/sub-NN_sample-brain_acq-200x_stain-DAPI_run-10269_FLUO.ome.tif	2021-01-28T18:43:59	DAPI	200X	high	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10269.czi
+micr/sub-NN_sample-brain_acq-200x_stain-DAPI_run-10270_FLUO.ome.tif	2021-01-28T18:44:10	DAPI	200X	low	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10270.czi
+micr/sub-NN_sample-brain_acq-200x_stain-DAPI_run-10277_FLUO.ome.tif	2021-01-28T18:45:25	DAPI	200X	low	czi	subiculum	S	NN subiculum	Female P14 Positive NN/NN subiculum/Snap-10277.czi
+micr/sub-NN_sample-brain_acq-200x_stain-DAPI_run-9828_FLUO.ome.tif	2021-01-21T16:35:39	DAPI	200X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9828.czi
+micr/sub-NN_sample-brain_acq-200x_stain-DAPI_run-9829_FLUO.ome.tif	2021-01-21T16:35:47	DAPI	200X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9829.czi
+micr/sub-NN_sample-brain_acq-200x_stain-DAPI_run-9833_FLUO.ome.tif	2021-01-21T16:38:19	DAPI	200X	high	czi	n/a	n/a	n/a	Female P14 Positive NN/Snap-9833.czi

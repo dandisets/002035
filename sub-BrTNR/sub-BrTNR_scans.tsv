@@ -1,0 +1,91 @@
+filename	acq_time	stain	magnification	magnification_confidence	source_format	region	region_abbr	original_subfolder	original_file
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11796_FLUO.ome.tif	2021-03-08T17:38:45	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11796.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11816_FLUO.ome.tif	2021-03-08T17:44:11	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11816.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11817_FLUO.ome.tif	2021-03-08T17:44:18	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11817.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11822_FLUO.ome.tif	2021-03-08T17:45:08	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11822.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11823_FLUO.ome.tif	2021-03-08T17:45:14	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11823.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11825_FLUO.ome.tif	2021-03-08T17:46:03	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11825.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11828_FLUO.ome.tif	2021-03-08T17:46:22	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11828.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11837_FLUO.ome.tif	2021-03-08T17:48:52	Abeta42	100X	low	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11837.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11841_FLUO.ome.tif	2021-03-08T17:49:38	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11841.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11850_FLUO.ome.tif	2021-03-08T17:53:07	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11850.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11853_FLUO.ome.tif	2021-03-08T17:54:06	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11853.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11858_FLUO.ome.tif	2021-03-08T17:55:52	Abeta42	100X	low	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11858.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11862_FLUO.ome.tif	2021-03-08T17:56:57	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11862.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-Abeta42_run-11866_FLUO.ome.tif	2021-03-08T17:58:12	Abeta42	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11866.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11795_FLUO.ome.tif	2021-03-08T17:38:38	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11795.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11812_FLUO.ome.tif	2021-03-08T17:42:31	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11812.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11813_FLUO.ome.tif	2021-03-08T17:42:43	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11813.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11814_FLUO.ome.tif	2021-03-08T17:42:55	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11814.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11815_FLUO.ome.tif	2021-03-08T17:43:54	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11815.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11820_FLUO.ome.tif	2021-03-08T17:44:47	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11820.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11821_FLUO.ome.tif	2021-03-08T17:44:54	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11821.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11824_FLUO.ome.tif	2021-03-08T17:45:24	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11824.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11826_FLUO.ome.tif	2021-03-08T17:46:12	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11826.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11827_FLUO.ome.tif	2021-03-08T17:46:18	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11827.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11838_FLUO.ome.tif	2021-03-08T17:49:04	DAPI	100X	low	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11838.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11842_FLUO.ome.tif	2021-03-08T17:49:48	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11842.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11849_FLUO.ome.tif	2021-03-08T17:53:02	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11849.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11854_FLUO.ome.tif	2021-03-08T17:54:15	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11854.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11859_FLUO.ome.tif	2021-03-08T17:56:00	DAPI	100X	low	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11859.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11863_FLUO.ome.tif	2021-03-08T17:57:09	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11863.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-11867_FLUO.ome.tif	2021-03-08T17:58:19	DAPI	100X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11867.czi
+micr/sub-BrTNR_sample-brain_acq-100x_stain-DAPI_run-20921_FLUO.ome.tif	2021-11-26T19:01:26	DAPI	100X	high	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20921.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-11792_FLUO.ome.tif	2021-03-08T17:37:22	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11792.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-11793_FLUO.ome.tif	2021-03-08T17:37:41	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11793.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-11834_FLUO.ome.tif	2021-03-08T17:47:59	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11834.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-11835_FLUO.ome.tif	2021-03-08T17:48:11	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11835.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-11840_FLUO.ome.tif	2021-03-08T17:49:24	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11840.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-11843_FLUO.ome.tif	2021-03-08T17:50:25	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11843.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-11848_FLUO.ome.tif	2021-03-08T17:52:31	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11848.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-11852_FLUO.ome.tif	2021-03-08T17:53:37	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11852.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-11857_FLUO.ome.tif	2021-03-08T17:55:38	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11857.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-11865_FLUO.ome.tif	2021-03-08T17:57:29	Abeta42	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11865.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-Abeta42_run-20918_FLUO.ome.tif	2021-11-26T19:00:32	Abeta42	12.5X	high	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20918.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11791_FLUO.ome.tif	2021-03-08T17:37:14	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11791.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11794_FLUO.ome.tif	2021-03-08T17:38:06	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11794.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11829_FLUO.ome.tif	2021-03-08T17:47:15	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11829.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11832_FLUO.ome.tif	2021-03-08T17:47:47	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11832.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11833_FLUO.ome.tif	2021-03-08T17:47:54	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11833.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11836_FLUO.ome.tif	2021-03-08T17:48:26	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11836.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11839_FLUO.ome.tif	2021-03-08T17:49:16	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11839.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11846_FLUO.ome.tif	2021-03-08T17:50:48	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11846.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11847_FLUO.ome.tif	2021-03-08T17:52:25	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11847.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11851_FLUO.ome.tif	2021-03-08T17:53:32	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11851.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11856_FLUO.ome.tif	2021-03-08T17:55:28	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11856.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-11864_FLUO.ome.tif	2021-03-08T17:57:23	DAPI	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11864.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-DAPI_run-20919_FLUO.ome.tif	2021-11-26T19:00:43	DAPI	12.5X	high	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20919.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-autofluorescence_run-11844_FLUO.ome.tif	2021-03-08T17:50:30	autofluorescence	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11844.czi
+micr/sub-BrTNR_sample-brain_acq-12p5x_stain-autofluorescence_run-11845_FLUO.ome.tif	2021-03-08T17:50:41	autofluorescence	12.5X	high	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11845.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11797_FLUO.ome.tif	2021-03-08T17:39:11	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11797.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11798_FLUO.ome.tif	2021-03-08T17:39:28	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11798.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11799_FLUO.ome.tif	2021-03-08T17:39:32	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11799.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11800_FLUO.ome.tif	2021-03-08T17:39:35	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11800.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11801_FLUO.ome.tif	2021-03-08T17:39:40	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11801.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11802_FLUO.ome.tif	2021-03-08T17:39:57	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11802.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11803_FLUO.ome.tif	2021-03-08T17:40:00	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11803.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11804_FLUO.ome.tif	2021-03-08T17:40:04	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11804.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11805_FLUO.ome.tif	2021-03-08T17:40:09	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11805.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11806_FLUO.ome.tif	2021-03-08T17:41:11	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11806.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11807_FLUO.ome.tif	2021-03-08T17:41:22	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11807.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11808_FLUO.ome.tif	2021-03-08T17:41:36	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11808.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11809_FLUO.ome.tif	2021-03-08T17:41:47	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11809.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11810_FLUO.ome.tif	2021-03-08T17:41:56	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11810.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11811_FLUO.ome.tif	2021-03-08T17:42:05	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11811.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11818_FLUO.ome.tif	2021-03-08T17:44:27	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11818.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11830_FLUO.ome.tif	2021-03-08T17:47:20	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11830.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11831_FLUO.ome.tif	2021-03-08T17:47:36	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11831.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11855_FLUO.ome.tif	2021-03-08T17:54:25	Abeta42	200X	rule	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11855.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-11860_FLUO.ome.tif	2021-03-08T17:56:25	Abeta42	200X	low	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11860.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-20920_FLUO.ome.tif	2021-11-26T19:01:10	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20920.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-20922_FLUO.ome.tif	2021-11-26T19:01:32	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20922.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-20923_FLUO.ome.tif	2021-11-26T19:01:56	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20923.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-20924_FLUO.ome.tif	2021-11-26T19:02:04	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20924.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-20927_FLUO.ome.tif	2021-11-26T19:02:28	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20927.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-20928_FLUO.ome.tif	2021-11-26T19:02:30	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20928.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-Abeta42_run-20929_FLUO.ome.tif	2021-11-26T19:02:34	Abeta42	200X	rule	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20929.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-DAPI_run-11861_FLUO.ome.tif	2021-03-08T17:56:37	DAPI	200X	low	czi	n/a	n/a	n/a	Male P14 Positive BrTNR/Snap-11861.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-DAPI_run-20925_FLUO.ome.tif	2021-11-26T19:02:13	DAPI	200X	high	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20925.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-DAPI_run-20926_FLUO.ome.tif	2021-11-26T19:02:16	DAPI	200X	high	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20926.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-DAPI_run-20930_FLUO.ome.tif	2021-11-26T19:02:43	DAPI	200X	high	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20930.czi
+micr/sub-BrTNR_sample-brain_acq-200x_stain-DAPI_run-20931_FLUO.ome.tif	2021-11-26T19:02:47	DAPI	200X	high	czi	caudal pontine reticular nucleus	PRNc	BrTNR PRNc	Male P14 Positive BrTNR/BrTNR PRNc/Snap-20931.czi
