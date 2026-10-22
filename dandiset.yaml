@@ -22,8 +22,8 @@ assetsSummary:
   species: []
   variableMeasured: []
 citation: Wehr, Michael (2026) Amyloid Pathology in the Central Auditory Pathway of
-  5XFAD Mice Appears First in Auditory Cortex (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/002035/draft
+  5XFAD Mice Appears First in Auditory Cortex (Version 0.261022.1829) [Data set].
+  DANDI Archive. https://doi.org/10.48324/dandi.002035/0.261022.1829
 contributor:
 - affiliation: []
   email: wehr@uoregon.edu
@@ -53,6 +53,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2026-10-19T19:34:10.479437+00:00'
+datePublished: '2026-10-22T18:29:15.653151+00:00'
 description: "Raw widefield fluorescence images supporting: Weible AP, Wehr M (2022)
   Amyloid Pathology in the Central Auditory Pathway of 5XFAD Mice Appears First in
   Auditory Cortex. J Alzheimers Dis 89(4):1385-1402. doi:10.3233/JAD-220538. PMCID:
@@ -66,15 +67,28 @@ description: "Raw widefield fluorescence images supporting: Weible AP, Wehr M (2
   or corrupted (including all images of mice 0245, 0242 and 0393); these were converted
   from ZEN's 8-bit .jpg export (display-scaled, signal channel only) and are marked
   SourceFormat / source_format = jpg."
+doi: 10.48324/dandi.002035/0.261022.1829
 ethicsApproval: []
-id: DANDI:002035/draft
+id: DANDI:002035/0.261022.1829
 identifier: DANDI:002035
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/002035/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/002035/0.261022.1829/assets.yaml
 name: Amyloid Pathology in the Central Auditory Pathway of 5XFAD Mice Appears First
   in Auditory Cortex
+publishedBy:
+  endDate: '2026-10-22T18:29:15.653151+00:00'
+  id: urn:uuid:3fd09d5c-6b53-4d8d-84f3-cf44075f1d27
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-22T18:29:15.653151+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:834b1df9-c348-4d1b-9b48-7d44d41446a3
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: 10.3233/JAD-220538
   name: Amyloid Pathology in the Central Auditory Pathway of 5XFAD Mice Appears First
@@ -87,6 +101,6 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/002035/draft
-version: draft
+url: https://dandiarchive.org/dandiset/002035/0.261022.1829
+version: 0.261022.1829
 wasGeneratedBy: []
