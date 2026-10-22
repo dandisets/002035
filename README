@@ -11,6 +11,7 @@ FILE FORMAT. Images are single-channel OME-TIFF. Where the original .czi survive
 12-bit raw data (uint16). For a minority of images the .czi was missing or corrupted (including all images
 of mice 0245, 0242 and 0393); these were converted from ZEN's 8-bit .jpg export (display-scaled, signal
 channel only) and are marked SourceFormat / source_format = jpg.
+Note that CZI-derived images are 12-bit data in uint16; adjust display range to 0–4095 if the images appear dark.
 
 MAGNIFICATION. The microscope's objectives are changed by hand, and the objective recorded by ZEN is not
 reliable. Magnification was therefore inferred from image content, and pixel size derived from it:
@@ -19,8 +20,7 @@ reliable. Magnification was therefore inferred from image content, and pixel siz
   acq-200x   20x objective (200X total), 0.3225 um/pixel
 DAPI images were classified from nucleus size; Abeta42 and red images take the class of the DAPI image of the
 same field (matched by image similarity), and Abeta42 focal stacks without a matching DAPI image are 200X,
-following the imaging protocol. Each image's sidecar gives MagnificationSource and MagnificationConfidence; please confirm
-the scale visually before making quantitative measurements.
+following the imaging protocol. Each image's sidecar gives MagnificationSource and MagnificationConfidence; please confirm the scale visually before making quantitative measurements.
 
 ORGANIZATION. Each image sequence begins with low-magnification coronal overviews used to locate the
 high-magnification fields of view in each region examined. High-magnification fields include several Abeta42
